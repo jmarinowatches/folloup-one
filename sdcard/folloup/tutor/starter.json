@@ -1,0 +1,2043 @@
+{
+  "schema": 1,
+  "name": "Folloup One Conversational Japanese",
+  "cards": [
+    {
+      "id": "hiragana-3042",
+      "group": "hiragana",
+      "japanese": "あ",
+      "romaji": "a",
+      "english": "a"
+    },
+    {
+      "id": "hiragana-3044",
+      "group": "hiragana",
+      "japanese": "い",
+      "romaji": "i",
+      "english": "i"
+    },
+    {
+      "id": "hiragana-3046",
+      "group": "hiragana",
+      "japanese": "う",
+      "romaji": "u",
+      "english": "u"
+    },
+    {
+      "id": "hiragana-3048",
+      "group": "hiragana",
+      "japanese": "え",
+      "romaji": "e",
+      "english": "e"
+    },
+    {
+      "id": "hiragana-304a",
+      "group": "hiragana",
+      "japanese": "お",
+      "romaji": "o",
+      "english": "o"
+    },
+    {
+      "id": "hiragana-304b",
+      "group": "hiragana",
+      "japanese": "か",
+      "romaji": "ka",
+      "english": "ka"
+    },
+    {
+      "id": "hiragana-304d",
+      "group": "hiragana",
+      "japanese": "き",
+      "romaji": "ki",
+      "english": "ki"
+    },
+    {
+      "id": "hiragana-304f",
+      "group": "hiragana",
+      "japanese": "く",
+      "romaji": "ku",
+      "english": "ku"
+    },
+    {
+      "id": "hiragana-3051",
+      "group": "hiragana",
+      "japanese": "け",
+      "romaji": "ke",
+      "english": "ke"
+    },
+    {
+      "id": "hiragana-3053",
+      "group": "hiragana",
+      "japanese": "こ",
+      "romaji": "ko",
+      "english": "ko"
+    },
+    {
+      "id": "hiragana-3055",
+      "group": "hiragana",
+      "japanese": "さ",
+      "romaji": "sa",
+      "english": "sa"
+    },
+    {
+      "id": "hiragana-3057",
+      "group": "hiragana",
+      "japanese": "し",
+      "romaji": "shi",
+      "english": "shi"
+    },
+    {
+      "id": "hiragana-3059",
+      "group": "hiragana",
+      "japanese": "す",
+      "romaji": "su",
+      "english": "su"
+    },
+    {
+      "id": "hiragana-305b",
+      "group": "hiragana",
+      "japanese": "せ",
+      "romaji": "se",
+      "english": "se"
+    },
+    {
+      "id": "hiragana-305d",
+      "group": "hiragana",
+      "japanese": "そ",
+      "romaji": "so",
+      "english": "so"
+    },
+    {
+      "id": "hiragana-305f",
+      "group": "hiragana",
+      "japanese": "た",
+      "romaji": "ta",
+      "english": "ta"
+    },
+    {
+      "id": "hiragana-3061",
+      "group": "hiragana",
+      "japanese": "ち",
+      "romaji": "chi",
+      "english": "chi"
+    },
+    {
+      "id": "hiragana-3064",
+      "group": "hiragana",
+      "japanese": "つ",
+      "romaji": "tsu",
+      "english": "tsu"
+    },
+    {
+      "id": "hiragana-3066",
+      "group": "hiragana",
+      "japanese": "て",
+      "romaji": "te",
+      "english": "te"
+    },
+    {
+      "id": "hiragana-3068",
+      "group": "hiragana",
+      "japanese": "と",
+      "romaji": "to",
+      "english": "to"
+    },
+    {
+      "id": "hiragana-306a",
+      "group": "hiragana",
+      "japanese": "な",
+      "romaji": "na",
+      "english": "na"
+    },
+    {
+      "id": "hiragana-306b",
+      "group": "hiragana",
+      "japanese": "に",
+      "romaji": "ni",
+      "english": "ni"
+    },
+    {
+      "id": "hiragana-306c",
+      "group": "hiragana",
+      "japanese": "ぬ",
+      "romaji": "nu",
+      "english": "nu"
+    },
+    {
+      "id": "hiragana-306d",
+      "group": "hiragana",
+      "japanese": "ね",
+      "romaji": "ne",
+      "english": "ne"
+    },
+    {
+      "id": "hiragana-306e",
+      "group": "hiragana",
+      "japanese": "の",
+      "romaji": "no",
+      "english": "no"
+    },
+    {
+      "id": "hiragana-306f",
+      "group": "hiragana",
+      "japanese": "は",
+      "romaji": "ha",
+      "english": "ha"
+    },
+    {
+      "id": "hiragana-3072",
+      "group": "hiragana",
+      "japanese": "ひ",
+      "romaji": "hi",
+      "english": "hi"
+    },
+    {
+      "id": "hiragana-3075",
+      "group": "hiragana",
+      "japanese": "ふ",
+      "romaji": "fu",
+      "english": "fu"
+    },
+    {
+      "id": "hiragana-3078",
+      "group": "hiragana",
+      "japanese": "へ",
+      "romaji": "he",
+      "english": "he"
+    },
+    {
+      "id": "hiragana-307b",
+      "group": "hiragana",
+      "japanese": "ほ",
+      "romaji": "ho",
+      "english": "ho"
+    },
+    {
+      "id": "hiragana-307e",
+      "group": "hiragana",
+      "japanese": "ま",
+      "romaji": "ma",
+      "english": "ma"
+    },
+    {
+      "id": "hiragana-307f",
+      "group": "hiragana",
+      "japanese": "み",
+      "romaji": "mi",
+      "english": "mi"
+    },
+    {
+      "id": "hiragana-3080",
+      "group": "hiragana",
+      "japanese": "む",
+      "romaji": "mu",
+      "english": "mu"
+    },
+    {
+      "id": "hiragana-3081",
+      "group": "hiragana",
+      "japanese": "め",
+      "romaji": "me",
+      "english": "me"
+    },
+    {
+      "id": "hiragana-3082",
+      "group": "hiragana",
+      "japanese": "も",
+      "romaji": "mo",
+      "english": "mo"
+    },
+    {
+      "id": "hiragana-3084",
+      "group": "hiragana",
+      "japanese": "や",
+      "romaji": "ya",
+      "english": "ya"
+    },
+    {
+      "id": "hiragana-3086",
+      "group": "hiragana",
+      "japanese": "ゆ",
+      "romaji": "yu",
+      "english": "yu"
+    },
+    {
+      "id": "hiragana-3088",
+      "group": "hiragana",
+      "japanese": "よ",
+      "romaji": "yo",
+      "english": "yo"
+    },
+    {
+      "id": "hiragana-3089",
+      "group": "hiragana",
+      "japanese": "ら",
+      "romaji": "ra",
+      "english": "ra"
+    },
+    {
+      "id": "hiragana-308a",
+      "group": "hiragana",
+      "japanese": "り",
+      "romaji": "ri",
+      "english": "ri"
+    },
+    {
+      "id": "hiragana-308b",
+      "group": "hiragana",
+      "japanese": "る",
+      "romaji": "ru",
+      "english": "ru"
+    },
+    {
+      "id": "hiragana-308c",
+      "group": "hiragana",
+      "japanese": "れ",
+      "romaji": "re",
+      "english": "re"
+    },
+    {
+      "id": "hiragana-308d",
+      "group": "hiragana",
+      "japanese": "ろ",
+      "romaji": "ro",
+      "english": "ro"
+    },
+    {
+      "id": "hiragana-308f",
+      "group": "hiragana",
+      "japanese": "わ",
+      "romaji": "wa",
+      "english": "wa"
+    },
+    {
+      "id": "hiragana-3092",
+      "group": "hiragana",
+      "japanese": "を",
+      "romaji": "o",
+      "english": "o"
+    },
+    {
+      "id": "hiragana-3093",
+      "group": "hiragana",
+      "japanese": "ん",
+      "romaji": "n",
+      "english": "n"
+    },
+    {
+      "id": "hiragana-304c",
+      "group": "hiragana",
+      "japanese": "が",
+      "romaji": "ga",
+      "english": "ga"
+    },
+    {
+      "id": "hiragana-304e",
+      "group": "hiragana",
+      "japanese": "ぎ",
+      "romaji": "gi",
+      "english": "gi"
+    },
+    {
+      "id": "hiragana-3050",
+      "group": "hiragana",
+      "japanese": "ぐ",
+      "romaji": "gu",
+      "english": "gu"
+    },
+    {
+      "id": "hiragana-3052",
+      "group": "hiragana",
+      "japanese": "げ",
+      "romaji": "ge",
+      "english": "ge"
+    },
+    {
+      "id": "hiragana-3054",
+      "group": "hiragana",
+      "japanese": "ご",
+      "romaji": "go",
+      "english": "go"
+    },
+    {
+      "id": "hiragana-3056",
+      "group": "hiragana",
+      "japanese": "ざ",
+      "romaji": "za",
+      "english": "za"
+    },
+    {
+      "id": "hiragana-3058",
+      "group": "hiragana",
+      "japanese": "じ",
+      "romaji": "ji",
+      "english": "ji"
+    },
+    {
+      "id": "hiragana-305a",
+      "group": "hiragana",
+      "japanese": "ず",
+      "romaji": "zu",
+      "english": "zu"
+    },
+    {
+      "id": "hiragana-305c",
+      "group": "hiragana",
+      "japanese": "ぜ",
+      "romaji": "ze",
+      "english": "ze"
+    },
+    {
+      "id": "hiragana-305e",
+      "group": "hiragana",
+      "japanese": "ぞ",
+      "romaji": "zo",
+      "english": "zo"
+    },
+    {
+      "id": "hiragana-3060",
+      "group": "hiragana",
+      "japanese": "だ",
+      "romaji": "da",
+      "english": "da"
+    },
+    {
+      "id": "hiragana-3062",
+      "group": "hiragana",
+      "japanese": "ぢ",
+      "romaji": "ji",
+      "english": "ji"
+    },
+    {
+      "id": "hiragana-3065",
+      "group": "hiragana",
+      "japanese": "づ",
+      "romaji": "zu",
+      "english": "zu"
+    },
+    {
+      "id": "hiragana-3067",
+      "group": "hiragana",
+      "japanese": "で",
+      "romaji": "de",
+      "english": "de"
+    },
+    {
+      "id": "hiragana-3069",
+      "group": "hiragana",
+      "japanese": "ど",
+      "romaji": "do",
+      "english": "do"
+    },
+    {
+      "id": "hiragana-3070",
+      "group": "hiragana",
+      "japanese": "ば",
+      "romaji": "ba",
+      "english": "ba"
+    },
+    {
+      "id": "hiragana-3073",
+      "group": "hiragana",
+      "japanese": "び",
+      "romaji": "bi",
+      "english": "bi"
+    },
+    {
+      "id": "hiragana-3076",
+      "group": "hiragana",
+      "japanese": "ぶ",
+      "romaji": "bu",
+      "english": "bu"
+    },
+    {
+      "id": "hiragana-3079",
+      "group": "hiragana",
+      "japanese": "べ",
+      "romaji": "be",
+      "english": "be"
+    },
+    {
+      "id": "hiragana-307c",
+      "group": "hiragana",
+      "japanese": "ぼ",
+      "romaji": "bo",
+      "english": "bo"
+    },
+    {
+      "id": "hiragana-3071",
+      "group": "hiragana",
+      "japanese": "ぱ",
+      "romaji": "pa",
+      "english": "pa"
+    },
+    {
+      "id": "hiragana-3074",
+      "group": "hiragana",
+      "japanese": "ぴ",
+      "romaji": "pi",
+      "english": "pi"
+    },
+    {
+      "id": "hiragana-3077",
+      "group": "hiragana",
+      "japanese": "ぷ",
+      "romaji": "pu",
+      "english": "pu"
+    },
+    {
+      "id": "hiragana-307a",
+      "group": "hiragana",
+      "japanese": "ぺ",
+      "romaji": "pe",
+      "english": "pe"
+    },
+    {
+      "id": "hiragana-307d",
+      "group": "hiragana",
+      "japanese": "ぽ",
+      "romaji": "po",
+      "english": "po"
+    },
+    {
+      "id": "katakana-30a2",
+      "group": "katakana",
+      "japanese": "ア",
+      "romaji": "a",
+      "english": "a"
+    },
+    {
+      "id": "katakana-30a4",
+      "group": "katakana",
+      "japanese": "イ",
+      "romaji": "i",
+      "english": "i"
+    },
+    {
+      "id": "katakana-30a6",
+      "group": "katakana",
+      "japanese": "ウ",
+      "romaji": "u",
+      "english": "u"
+    },
+    {
+      "id": "katakana-30a8",
+      "group": "katakana",
+      "japanese": "エ",
+      "romaji": "e",
+      "english": "e"
+    },
+    {
+      "id": "katakana-30aa",
+      "group": "katakana",
+      "japanese": "オ",
+      "romaji": "o",
+      "english": "o"
+    },
+    {
+      "id": "katakana-30ab",
+      "group": "katakana",
+      "japanese": "カ",
+      "romaji": "ka",
+      "english": "ka"
+    },
+    {
+      "id": "katakana-30ad",
+      "group": "katakana",
+      "japanese": "キ",
+      "romaji": "ki",
+      "english": "ki"
+    },
+    {
+      "id": "katakana-30af",
+      "group": "katakana",
+      "japanese": "ク",
+      "romaji": "ku",
+      "english": "ku"
+    },
+    {
+      "id": "katakana-30b1",
+      "group": "katakana",
+      "japanese": "ケ",
+      "romaji": "ke",
+      "english": "ke"
+    },
+    {
+      "id": "katakana-30b3",
+      "group": "katakana",
+      "japanese": "コ",
+      "romaji": "ko",
+      "english": "ko"
+    },
+    {
+      "id": "katakana-30b5",
+      "group": "katakana",
+      "japanese": "サ",
+      "romaji": "sa",
+      "english": "sa"
+    },
+    {
+      "id": "katakana-30b7",
+      "group": "katakana",
+      "japanese": "シ",
+      "romaji": "shi",
+      "english": "shi"
+    },
+    {
+      "id": "katakana-30b9",
+      "group": "katakana",
+      "japanese": "ス",
+      "romaji": "su",
+      "english": "su"
+    },
+    {
+      "id": "katakana-30bb",
+      "group": "katakana",
+      "japanese": "セ",
+      "romaji": "se",
+      "english": "se"
+    },
+    {
+      "id": "katakana-30bd",
+      "group": "katakana",
+      "japanese": "ソ",
+      "romaji": "so",
+      "english": "so"
+    },
+    {
+      "id": "katakana-30bf",
+      "group": "katakana",
+      "japanese": "タ",
+      "romaji": "ta",
+      "english": "ta"
+    },
+    {
+      "id": "katakana-30c1",
+      "group": "katakana",
+      "japanese": "チ",
+      "romaji": "chi",
+      "english": "chi"
+    },
+    {
+      "id": "katakana-30c4",
+      "group": "katakana",
+      "japanese": "ツ",
+      "romaji": "tsu",
+      "english": "tsu"
+    },
+    {
+      "id": "katakana-30c6",
+      "group": "katakana",
+      "japanese": "テ",
+      "romaji": "te",
+      "english": "te"
+    },
+    {
+      "id": "katakana-30c8",
+      "group": "katakana",
+      "japanese": "ト",
+      "romaji": "to",
+      "english": "to"
+    },
+    {
+      "id": "katakana-30ca",
+      "group": "katakana",
+      "japanese": "ナ",
+      "romaji": "na",
+      "english": "na"
+    },
+    {
+      "id": "katakana-30cb",
+      "group": "katakana",
+      "japanese": "ニ",
+      "romaji": "ni",
+      "english": "ni"
+    },
+    {
+      "id": "katakana-30cc",
+      "group": "katakana",
+      "japanese": "ヌ",
+      "romaji": "nu",
+      "english": "nu"
+    },
+    {
+      "id": "katakana-30cd",
+      "group": "katakana",
+      "japanese": "ネ",
+      "romaji": "ne",
+      "english": "ne"
+    },
+    {
+      "id": "katakana-30ce",
+      "group": "katakana",
+      "japanese": "ノ",
+      "romaji": "no",
+      "english": "no"
+    },
+    {
+      "id": "katakana-30cf",
+      "group": "katakana",
+      "japanese": "ハ",
+      "romaji": "ha",
+      "english": "ha"
+    },
+    {
+      "id": "katakana-30d2",
+      "group": "katakana",
+      "japanese": "ヒ",
+      "romaji": "hi",
+      "english": "hi"
+    },
+    {
+      "id": "katakana-30d5",
+      "group": "katakana",
+      "japanese": "フ",
+      "romaji": "fu",
+      "english": "fu"
+    },
+    {
+      "id": "katakana-30d8",
+      "group": "katakana",
+      "japanese": "ヘ",
+      "romaji": "he",
+      "english": "he"
+    },
+    {
+      "id": "katakana-30db",
+      "group": "katakana",
+      "japanese": "ホ",
+      "romaji": "ho",
+      "english": "ho"
+    },
+    {
+      "id": "katakana-30de",
+      "group": "katakana",
+      "japanese": "マ",
+      "romaji": "ma",
+      "english": "ma"
+    },
+    {
+      "id": "katakana-30df",
+      "group": "katakana",
+      "japanese": "ミ",
+      "romaji": "mi",
+      "english": "mi"
+    },
+    {
+      "id": "katakana-30e0",
+      "group": "katakana",
+      "japanese": "ム",
+      "romaji": "mu",
+      "english": "mu"
+    },
+    {
+      "id": "katakana-30e1",
+      "group": "katakana",
+      "japanese": "メ",
+      "romaji": "me",
+      "english": "me"
+    },
+    {
+      "id": "katakana-30e2",
+      "group": "katakana",
+      "japanese": "モ",
+      "romaji": "mo",
+      "english": "mo"
+    },
+    {
+      "id": "katakana-30e4",
+      "group": "katakana",
+      "japanese": "ヤ",
+      "romaji": "ya",
+      "english": "ya"
+    },
+    {
+      "id": "katakana-30e6",
+      "group": "katakana",
+      "japanese": "ユ",
+      "romaji": "yu",
+      "english": "yu"
+    },
+    {
+      "id": "katakana-30e8",
+      "group": "katakana",
+      "japanese": "ヨ",
+      "romaji": "yo",
+      "english": "yo"
+    },
+    {
+      "id": "katakana-30e9",
+      "group": "katakana",
+      "japanese": "ラ",
+      "romaji": "ra",
+      "english": "ra"
+    },
+    {
+      "id": "katakana-30ea",
+      "group": "katakana",
+      "japanese": "リ",
+      "romaji": "ri",
+      "english": "ri"
+    },
+    {
+      "id": "katakana-30eb",
+      "group": "katakana",
+      "japanese": "ル",
+      "romaji": "ru",
+      "english": "ru"
+    },
+    {
+      "id": "katakana-30ec",
+      "group": "katakana",
+      "japanese": "レ",
+      "romaji": "re",
+      "english": "re"
+    },
+    {
+      "id": "katakana-30ed",
+      "group": "katakana",
+      "japanese": "ロ",
+      "romaji": "ro",
+      "english": "ro"
+    },
+    {
+      "id": "katakana-30ef",
+      "group": "katakana",
+      "japanese": "ワ",
+      "romaji": "wa",
+      "english": "wa"
+    },
+    {
+      "id": "katakana-30f2",
+      "group": "katakana",
+      "japanese": "ヲ",
+      "romaji": "o",
+      "english": "o"
+    },
+    {
+      "id": "katakana-30f3",
+      "group": "katakana",
+      "japanese": "ン",
+      "romaji": "n",
+      "english": "n"
+    },
+    {
+      "id": "katakana-30ac",
+      "group": "katakana",
+      "japanese": "ガ",
+      "romaji": "ga",
+      "english": "ga"
+    },
+    {
+      "id": "katakana-30ae",
+      "group": "katakana",
+      "japanese": "ギ",
+      "romaji": "gi",
+      "english": "gi"
+    },
+    {
+      "id": "katakana-30b0",
+      "group": "katakana",
+      "japanese": "グ",
+      "romaji": "gu",
+      "english": "gu"
+    },
+    {
+      "id": "katakana-30b2",
+      "group": "katakana",
+      "japanese": "ゲ",
+      "romaji": "ge",
+      "english": "ge"
+    },
+    {
+      "id": "katakana-30b4",
+      "group": "katakana",
+      "japanese": "ゴ",
+      "romaji": "go",
+      "english": "go"
+    },
+    {
+      "id": "katakana-30b6",
+      "group": "katakana",
+      "japanese": "ザ",
+      "romaji": "za",
+      "english": "za"
+    },
+    {
+      "id": "katakana-30b8",
+      "group": "katakana",
+      "japanese": "ジ",
+      "romaji": "ji",
+      "english": "ji"
+    },
+    {
+      "id": "katakana-30ba",
+      "group": "katakana",
+      "japanese": "ズ",
+      "romaji": "zu",
+      "english": "zu"
+    },
+    {
+      "id": "katakana-30bc",
+      "group": "katakana",
+      "japanese": "ゼ",
+      "romaji": "ze",
+      "english": "ze"
+    },
+    {
+      "id": "katakana-30be",
+      "group": "katakana",
+      "japanese": "ゾ",
+      "romaji": "zo",
+      "english": "zo"
+    },
+    {
+      "id": "katakana-30c0",
+      "group": "katakana",
+      "japanese": "ダ",
+      "romaji": "da",
+      "english": "da"
+    },
+    {
+      "id": "katakana-30c2",
+      "group": "katakana",
+      "japanese": "ヂ",
+      "romaji": "ji",
+      "english": "ji"
+    },
+    {
+      "id": "katakana-30c5",
+      "group": "katakana",
+      "japanese": "ヅ",
+      "romaji": "zu",
+      "english": "zu"
+    },
+    {
+      "id": "katakana-30c7",
+      "group": "katakana",
+      "japanese": "デ",
+      "romaji": "de",
+      "english": "de"
+    },
+    {
+      "id": "katakana-30c9",
+      "group": "katakana",
+      "japanese": "ド",
+      "romaji": "do",
+      "english": "do"
+    },
+    {
+      "id": "katakana-30d0",
+      "group": "katakana",
+      "japanese": "バ",
+      "romaji": "ba",
+      "english": "ba"
+    },
+    {
+      "id": "katakana-30d3",
+      "group": "katakana",
+      "japanese": "ビ",
+      "romaji": "bi",
+      "english": "bi"
+    },
+    {
+      "id": "katakana-30d6",
+      "group": "katakana",
+      "japanese": "ブ",
+      "romaji": "bu",
+      "english": "bu"
+    },
+    {
+      "id": "katakana-30d9",
+      "group": "katakana",
+      "japanese": "ベ",
+      "romaji": "be",
+      "english": "be"
+    },
+    {
+      "id": "katakana-30dc",
+      "group": "katakana",
+      "japanese": "ボ",
+      "romaji": "bo",
+      "english": "bo"
+    },
+    {
+      "id": "katakana-30d1",
+      "group": "katakana",
+      "japanese": "パ",
+      "romaji": "pa",
+      "english": "pa"
+    },
+    {
+      "id": "katakana-30d4",
+      "group": "katakana",
+      "japanese": "ピ",
+      "romaji": "pi",
+      "english": "pi"
+    },
+    {
+      "id": "katakana-30d7",
+      "group": "katakana",
+      "japanese": "プ",
+      "romaji": "pu",
+      "english": "pu"
+    },
+    {
+      "id": "katakana-30da",
+      "group": "katakana",
+      "japanese": "ペ",
+      "romaji": "pe",
+      "english": "pe"
+    },
+    {
+      "id": "katakana-30dd",
+      "group": "katakana",
+      "japanese": "ポ",
+      "romaji": "po",
+      "english": "po"
+    },
+    {
+      "id": "vocab-000",
+      "group": "vocabulary",
+      "japanese": "こんにちは",
+      "romaji": "konnichiwa",
+      "english": "hello"
+    },
+    {
+      "id": "vocab-001",
+      "group": "vocabulary",
+      "japanese": "おはようございます",
+      "romaji": "ohayou gozaimasu",
+      "english": "good morning (polite)"
+    },
+    {
+      "id": "vocab-002",
+      "group": "vocabulary",
+      "japanese": "こんばんは",
+      "romaji": "konbanwa",
+      "english": "good evening"
+    },
+    {
+      "id": "vocab-003",
+      "group": "vocabulary",
+      "japanese": "おやすみなさい",
+      "romaji": "oyasuminasai",
+      "english": "good night"
+    },
+    {
+      "id": "vocab-004",
+      "group": "vocabulary",
+      "japanese": "ありがとうございます",
+      "romaji": "arigatou gozaimasu",
+      "english": "thank you (polite)"
+    },
+    {
+      "id": "vocab-005",
+      "group": "vocabulary",
+      "japanese": "すみません",
+      "romaji": "sumimasen",
+      "english": "excuse me; sorry"
+    },
+    {
+      "id": "vocab-006",
+      "group": "vocabulary",
+      "japanese": "ごめんなさい",
+      "romaji": "gomennasai",
+      "english": "I am sorry"
+    },
+    {
+      "id": "vocab-007",
+      "group": "vocabulary",
+      "japanese": "お願いします",
+      "romaji": "onegaishimasu",
+      "english": "please (request)"
+    },
+    {
+      "id": "vocab-008",
+      "group": "vocabulary",
+      "japanese": "はい",
+      "romaji": "hai",
+      "english": "yes"
+    },
+    {
+      "id": "vocab-009",
+      "group": "vocabulary",
+      "japanese": "いいえ",
+      "romaji": "iie",
+      "english": "no"
+    },
+    {
+      "id": "vocab-010",
+      "group": "vocabulary",
+      "japanese": "はじめまして",
+      "romaji": "hajimemashite",
+      "english": "nice to meet you (first meeting)"
+    },
+    {
+      "id": "vocab-011",
+      "group": "vocabulary",
+      "japanese": "よろしくお願いします",
+      "romaji": "yoroshiku onegaishimasu",
+      "english": "pleased to meet you; I look forward to working with you"
+    },
+    {
+      "id": "vocab-012",
+      "group": "vocabulary",
+      "japanese": "お元気ですか",
+      "romaji": "ogenki desu ka",
+      "english": "how are you?"
+    },
+    {
+      "id": "vocab-013",
+      "group": "vocabulary",
+      "japanese": "元気です",
+      "romaji": "genki desu",
+      "english": "I am well"
+    },
+    {
+      "id": "vocab-014",
+      "group": "vocabulary",
+      "japanese": "私",
+      "romaji": "watashi",
+      "english": "I; me"
+    },
+    {
+      "id": "vocab-015",
+      "group": "vocabulary",
+      "japanese": "あなた",
+      "romaji": "anata",
+      "english": "you"
+    },
+    {
+      "id": "vocab-016",
+      "group": "vocabulary",
+      "japanese": "名前",
+      "romaji": "namae",
+      "english": "name"
+    },
+    {
+      "id": "vocab-017",
+      "group": "vocabulary",
+      "japanese": "日本",
+      "romaji": "nihon",
+      "english": "Japan"
+    },
+    {
+      "id": "vocab-018",
+      "group": "vocabulary",
+      "japanese": "日本語",
+      "romaji": "nihongo",
+      "english": "Japanese language"
+    },
+    {
+      "id": "vocab-019",
+      "group": "vocabulary",
+      "japanese": "英語",
+      "romaji": "eigo",
+      "english": "English language"
+    },
+    {
+      "id": "vocab-020",
+      "group": "vocabulary",
+      "japanese": "わかります",
+      "romaji": "wakarimasu",
+      "english": "I understand"
+    },
+    {
+      "id": "vocab-021",
+      "group": "vocabulary",
+      "japanese": "わかりません",
+      "romaji": "wakarimasen",
+      "english": "I do not understand"
+    },
+    {
+      "id": "vocab-022",
+      "group": "vocabulary",
+      "japanese": "もう一度",
+      "romaji": "mou ichido",
+      "english": "once more"
+    },
+    {
+      "id": "vocab-023",
+      "group": "vocabulary",
+      "japanese": "ゆっくり",
+      "romaji": "yukkuri",
+      "english": "slowly"
+    },
+    {
+      "id": "vocab-024",
+      "group": "vocabulary",
+      "japanese": "何",
+      "romaji": "nani",
+      "english": "what"
+    },
+    {
+      "id": "vocab-025",
+      "group": "vocabulary",
+      "japanese": "どこ",
+      "romaji": "doko",
+      "english": "where"
+    },
+    {
+      "id": "vocab-026",
+      "group": "vocabulary",
+      "japanese": "いつ",
+      "romaji": "itsu",
+      "english": "when"
+    },
+    {
+      "id": "vocab-027",
+      "group": "vocabulary",
+      "japanese": "だれ",
+      "romaji": "dare",
+      "english": "who"
+    },
+    {
+      "id": "vocab-028",
+      "group": "vocabulary",
+      "japanese": "いくら",
+      "romaji": "ikura",
+      "english": "how much"
+    },
+    {
+      "id": "vocab-029",
+      "group": "vocabulary",
+      "japanese": "これ",
+      "romaji": "kore",
+      "english": "this one"
+    },
+    {
+      "id": "vocab-030",
+      "group": "vocabulary",
+      "japanese": "それ",
+      "romaji": "sore",
+      "english": "that one (near you)"
+    },
+    {
+      "id": "vocab-031",
+      "group": "vocabulary",
+      "japanese": "あれ",
+      "romaji": "are",
+      "english": "that one over there"
+    },
+    {
+      "id": "vocab-032",
+      "group": "vocabulary",
+      "japanese": "ここ",
+      "romaji": "koko",
+      "english": "here"
+    },
+    {
+      "id": "vocab-033",
+      "group": "vocabulary",
+      "japanese": "そこ",
+      "romaji": "soko",
+      "english": "there (near you)"
+    },
+    {
+      "id": "vocab-034",
+      "group": "vocabulary",
+      "japanese": "水",
+      "romaji": "mizu",
+      "english": "water"
+    },
+    {
+      "id": "vocab-035",
+      "group": "vocabulary",
+      "japanese": "お茶",
+      "romaji": "ocha",
+      "english": "tea"
+    },
+    {
+      "id": "vocab-036",
+      "group": "vocabulary",
+      "japanese": "コーヒー",
+      "romaji": "koohii",
+      "english": "coffee"
+    },
+    {
+      "id": "vocab-037",
+      "group": "vocabulary",
+      "japanese": "ご飯",
+      "romaji": "gohan",
+      "english": "rice; meal"
+    },
+    {
+      "id": "vocab-038",
+      "group": "vocabulary",
+      "japanese": "パン",
+      "romaji": "pan",
+      "english": "bread"
+    },
+    {
+      "id": "vocab-039",
+      "group": "vocabulary",
+      "japanese": "魚",
+      "romaji": "sakana",
+      "english": "fish"
+    },
+    {
+      "id": "vocab-040",
+      "group": "vocabulary",
+      "japanese": "肉",
+      "romaji": "niku",
+      "english": "meat"
+    },
+    {
+      "id": "vocab-041",
+      "group": "vocabulary",
+      "japanese": "野菜",
+      "romaji": "yasai",
+      "english": "vegetables"
+    },
+    {
+      "id": "vocab-042",
+      "group": "vocabulary",
+      "japanese": "おいしい",
+      "romaji": "oishii",
+      "english": "delicious"
+    },
+    {
+      "id": "vocab-043",
+      "group": "vocabulary",
+      "japanese": "ください",
+      "romaji": "kudasai",
+      "english": "please give me"
+    },
+    {
+      "id": "vocab-044",
+      "group": "vocabulary",
+      "japanese": "食べます",
+      "romaji": "tabemasu",
+      "english": "eat (polite)"
+    },
+    {
+      "id": "vocab-045",
+      "group": "vocabulary",
+      "japanese": "飲みます",
+      "romaji": "nomimasu",
+      "english": "drink (polite)"
+    },
+    {
+      "id": "vocab-046",
+      "group": "vocabulary",
+      "japanese": "行きます",
+      "romaji": "ikimasu",
+      "english": "go (polite)"
+    },
+    {
+      "id": "vocab-047",
+      "group": "vocabulary",
+      "japanese": "来ます",
+      "romaji": "kimasu",
+      "english": "come (polite)"
+    },
+    {
+      "id": "vocab-048",
+      "group": "vocabulary",
+      "japanese": "見ます",
+      "romaji": "mimasu",
+      "english": "see; watch (polite)"
+    },
+    {
+      "id": "vocab-049",
+      "group": "vocabulary",
+      "japanese": "話します",
+      "romaji": "hanashimasu",
+      "english": "speak (polite)"
+    },
+    {
+      "id": "vocab-050",
+      "group": "vocabulary",
+      "japanese": "好き",
+      "romaji": "suki",
+      "english": "like; fond of"
+    },
+    {
+      "id": "vocab-051",
+      "group": "vocabulary",
+      "japanese": "大丈夫",
+      "romaji": "daijoubu",
+      "english": "okay; all right"
+    },
+    {
+      "id": "vocab-052",
+      "group": "vocabulary",
+      "japanese": "今日",
+      "romaji": "kyou",
+      "english": "today"
+    },
+    {
+      "id": "vocab-053",
+      "group": "vocabulary",
+      "japanese": "明日",
+      "romaji": "ashita",
+      "english": "tomorrow"
+    },
+    {
+      "id": "vocab-054",
+      "group": "vocabulary",
+      "japanese": "昨日",
+      "romaji": "kinou",
+      "english": "yesterday"
+    },
+    {
+      "id": "vocab-055",
+      "group": "vocabulary",
+      "japanese": "今",
+      "romaji": "ima",
+      "english": "now"
+    },
+    {
+      "id": "vocab-056",
+      "group": "vocabulary",
+      "japanese": "朝",
+      "romaji": "asa",
+      "english": "morning"
+    },
+    {
+      "id": "vocab-057",
+      "group": "vocabulary",
+      "japanese": "昼",
+      "romaji": "hiru",
+      "english": "noon; daytime"
+    },
+    {
+      "id": "vocab-058",
+      "group": "vocabulary",
+      "japanese": "夜",
+      "romaji": "yoru",
+      "english": "night"
+    },
+    {
+      "id": "vocab-059",
+      "group": "vocabulary",
+      "japanese": "一",
+      "romaji": "ichi",
+      "english": "one"
+    },
+    {
+      "id": "vocab-060",
+      "group": "vocabulary",
+      "japanese": "二",
+      "romaji": "ni",
+      "english": "two"
+    },
+    {
+      "id": "vocab-061",
+      "group": "vocabulary",
+      "japanese": "三",
+      "romaji": "san",
+      "english": "three"
+    },
+    {
+      "id": "vocab-062",
+      "group": "vocabulary",
+      "japanese": "四",
+      "romaji": "yon",
+      "english": "four"
+    },
+    {
+      "id": "vocab-063",
+      "group": "vocabulary",
+      "japanese": "五",
+      "romaji": "go",
+      "english": "five"
+    },
+    {
+      "id": "vocab-064",
+      "group": "vocabulary",
+      "japanese": "六",
+      "romaji": "roku",
+      "english": "six"
+    },
+    {
+      "id": "vocab-065",
+      "group": "vocabulary",
+      "japanese": "七",
+      "romaji": "nana",
+      "english": "seven"
+    },
+    {
+      "id": "vocab-066",
+      "group": "vocabulary",
+      "japanese": "八",
+      "romaji": "hachi",
+      "english": "eight"
+    },
+    {
+      "id": "vocab-067",
+      "group": "vocabulary",
+      "japanese": "九",
+      "romaji": "kyuu",
+      "english": "nine"
+    },
+    {
+      "id": "vocab-068",
+      "group": "vocabulary",
+      "japanese": "十",
+      "romaji": "juu",
+      "english": "ten"
+    },
+    {
+      "id": "vocab-069",
+      "group": "vocabulary",
+      "japanese": "駅",
+      "romaji": "eki",
+      "english": "station"
+    },
+    {
+      "id": "vocab-070",
+      "group": "vocabulary",
+      "japanese": "トイレ",
+      "romaji": "toire",
+      "english": "toilet; restroom"
+    },
+    {
+      "id": "vocab-071",
+      "group": "vocabulary",
+      "japanese": "ホテル",
+      "romaji": "hoteru",
+      "english": "hotel"
+    },
+    {
+      "id": "vocab-072",
+      "group": "vocabulary",
+      "japanese": "お店",
+      "romaji": "omise",
+      "english": "shop"
+    },
+    {
+      "id": "vocab-073",
+      "group": "vocabulary",
+      "japanese": "友達",
+      "romaji": "tomodachi",
+      "english": "friend"
+    },
+    {
+      "id": "vocab-074",
+      "group": "vocabulary",
+      "japanese": "家族",
+      "romaji": "kazoku",
+      "english": "family"
+    },
+    {
+      "id": "vocab-075",
+      "group": "vocabulary",
+      "japanese": "子供",
+      "romaji": "kodomo",
+      "english": "child"
+    },
+    {
+      "id": "vocab-076",
+      "group": "vocabulary",
+      "japanese": "妻",
+      "romaji": "tsuma",
+      "english": "my wife"
+    },
+    {
+      "id": "vocab-077",
+      "group": "vocabulary",
+      "japanese": "夫",
+      "romaji": "otto",
+      "english": "my husband"
+    },
+    {
+      "id": "vocab-078",
+      "group": "vocabulary",
+      "japanese": "医者",
+      "romaji": "isha",
+      "english": "doctor"
+    },
+    {
+      "id": "vocab-079",
+      "group": "vocabulary",
+      "japanese": "歯医者",
+      "romaji": "haisha",
+      "english": "dentist"
+    },
+    {
+      "id": "vocab-080",
+      "group": "vocabulary",
+      "japanese": "助けて",
+      "romaji": "tasukete",
+      "english": "help me"
+    },
+    {
+      "id": "vocab-081",
+      "group": "vocabulary",
+      "japanese": "またね",
+      "romaji": "mata ne",
+      "english": "see you (casual)"
+    },
+    {
+      "id": "vocab-082",
+      "group": "vocabulary",
+      "japanese": "さようなら",
+      "romaji": "sayounara",
+      "english": "goodbye"
+    },
+    {
+      "id": "hiragana-304d-3083",
+      "group": "hiragana",
+      "japanese": "きゃ",
+      "romaji": "kya",
+      "english": "kya"
+    },
+    {
+      "id": "hiragana-304d-3085",
+      "group": "hiragana",
+      "japanese": "きゅ",
+      "romaji": "kyu",
+      "english": "kyu"
+    },
+    {
+      "id": "hiragana-304d-3087",
+      "group": "hiragana",
+      "japanese": "きょ",
+      "romaji": "kyo",
+      "english": "kyo"
+    },
+    {
+      "id": "hiragana-3057-3083",
+      "group": "hiragana",
+      "japanese": "しゃ",
+      "romaji": "sha",
+      "english": "sha"
+    },
+    {
+      "id": "hiragana-3057-3085",
+      "group": "hiragana",
+      "japanese": "しゅ",
+      "romaji": "shu",
+      "english": "shu"
+    },
+    {
+      "id": "hiragana-3057-3087",
+      "group": "hiragana",
+      "japanese": "しょ",
+      "romaji": "sho",
+      "english": "sho"
+    },
+    {
+      "id": "hiragana-3061-3083",
+      "group": "hiragana",
+      "japanese": "ちゃ",
+      "romaji": "cha",
+      "english": "cha"
+    },
+    {
+      "id": "hiragana-3061-3085",
+      "group": "hiragana",
+      "japanese": "ちゅ",
+      "romaji": "chu",
+      "english": "chu"
+    },
+    {
+      "id": "hiragana-3061-3087",
+      "group": "hiragana",
+      "japanese": "ちょ",
+      "romaji": "cho",
+      "english": "cho"
+    },
+    {
+      "id": "hiragana-306b-3083",
+      "group": "hiragana",
+      "japanese": "にゃ",
+      "romaji": "nya",
+      "english": "nya"
+    },
+    {
+      "id": "hiragana-306b-3085",
+      "group": "hiragana",
+      "japanese": "にゅ",
+      "romaji": "nyu",
+      "english": "nyu"
+    },
+    {
+      "id": "hiragana-306b-3087",
+      "group": "hiragana",
+      "japanese": "にょ",
+      "romaji": "nyo",
+      "english": "nyo"
+    },
+    {
+      "id": "hiragana-3072-3083",
+      "group": "hiragana",
+      "japanese": "ひゃ",
+      "romaji": "hya",
+      "english": "hya"
+    },
+    {
+      "id": "hiragana-3072-3085",
+      "group": "hiragana",
+      "japanese": "ひゅ",
+      "romaji": "hyu",
+      "english": "hyu"
+    },
+    {
+      "id": "hiragana-3072-3087",
+      "group": "hiragana",
+      "japanese": "ひょ",
+      "romaji": "hyo",
+      "english": "hyo"
+    },
+    {
+      "id": "hiragana-307f-3083",
+      "group": "hiragana",
+      "japanese": "みゃ",
+      "romaji": "mya",
+      "english": "mya"
+    },
+    {
+      "id": "hiragana-307f-3085",
+      "group": "hiragana",
+      "japanese": "みゅ",
+      "romaji": "myu",
+      "english": "myu"
+    },
+    {
+      "id": "hiragana-307f-3087",
+      "group": "hiragana",
+      "japanese": "みょ",
+      "romaji": "myo",
+      "english": "myo"
+    },
+    {
+      "id": "hiragana-308a-3083",
+      "group": "hiragana",
+      "japanese": "りゃ",
+      "romaji": "rya",
+      "english": "rya"
+    },
+    {
+      "id": "hiragana-308a-3085",
+      "group": "hiragana",
+      "japanese": "りゅ",
+      "romaji": "ryu",
+      "english": "ryu"
+    },
+    {
+      "id": "hiragana-308a-3087",
+      "group": "hiragana",
+      "japanese": "りょ",
+      "romaji": "ryo",
+      "english": "ryo"
+    },
+    {
+      "id": "hiragana-304e-3083",
+      "group": "hiragana",
+      "japanese": "ぎゃ",
+      "romaji": "gya",
+      "english": "gya"
+    },
+    {
+      "id": "hiragana-304e-3085",
+      "group": "hiragana",
+      "japanese": "ぎゅ",
+      "romaji": "gyu",
+      "english": "gyu"
+    },
+    {
+      "id": "hiragana-304e-3087",
+      "group": "hiragana",
+      "japanese": "ぎょ",
+      "romaji": "gyo",
+      "english": "gyo"
+    },
+    {
+      "id": "hiragana-3058-3083",
+      "group": "hiragana",
+      "japanese": "じゃ",
+      "romaji": "ja",
+      "english": "ja"
+    },
+    {
+      "id": "hiragana-3058-3085",
+      "group": "hiragana",
+      "japanese": "じゅ",
+      "romaji": "ju",
+      "english": "ju"
+    },
+    {
+      "id": "hiragana-3058-3087",
+      "group": "hiragana",
+      "japanese": "じょ",
+      "romaji": "jo",
+      "english": "jo"
+    },
+    {
+      "id": "hiragana-3073-3083",
+      "group": "hiragana",
+      "japanese": "びゃ",
+      "romaji": "bya",
+      "english": "bya"
+    },
+    {
+      "id": "hiragana-3073-3085",
+      "group": "hiragana",
+      "japanese": "びゅ",
+      "romaji": "byu",
+      "english": "byu"
+    },
+    {
+      "id": "hiragana-3073-3087",
+      "group": "hiragana",
+      "japanese": "びょ",
+      "romaji": "byo",
+      "english": "byo"
+    },
+    {
+      "id": "hiragana-3074-3083",
+      "group": "hiragana",
+      "japanese": "ぴゃ",
+      "romaji": "pya",
+      "english": "pya"
+    },
+    {
+      "id": "hiragana-3074-3085",
+      "group": "hiragana",
+      "japanese": "ぴゅ",
+      "romaji": "pyu",
+      "english": "pyu"
+    },
+    {
+      "id": "hiragana-3074-3087",
+      "group": "hiragana",
+      "japanese": "ぴょ",
+      "romaji": "pyo",
+      "english": "pyo"
+    },
+    {
+      "id": "katakana-30ad-30e3",
+      "group": "katakana",
+      "japanese": "キャ",
+      "romaji": "kya",
+      "english": "kya"
+    },
+    {
+      "id": "katakana-30ad-30e5",
+      "group": "katakana",
+      "japanese": "キュ",
+      "romaji": "kyu",
+      "english": "kyu"
+    },
+    {
+      "id": "katakana-30ad-30e7",
+      "group": "katakana",
+      "japanese": "キョ",
+      "romaji": "kyo",
+      "english": "kyo"
+    },
+    {
+      "id": "katakana-30b7-30e3",
+      "group": "katakana",
+      "japanese": "シャ",
+      "romaji": "sha",
+      "english": "sha"
+    },
+    {
+      "id": "katakana-30b7-30e5",
+      "group": "katakana",
+      "japanese": "シュ",
+      "romaji": "shu",
+      "english": "shu"
+    },
+    {
+      "id": "katakana-30b7-30e7",
+      "group": "katakana",
+      "japanese": "ショ",
+      "romaji": "sho",
+      "english": "sho"
+    },
+    {
+      "id": "katakana-30c1-30e3",
+      "group": "katakana",
+      "japanese": "チャ",
+      "romaji": "cha",
+      "english": "cha"
+    },
+    {
+      "id": "katakana-30c1-30e5",
+      "group": "katakana",
+      "japanese": "チュ",
+      "romaji": "chu",
+      "english": "chu"
+    },
+    {
+      "id": "katakana-30c1-30e7",
+      "group": "katakana",
+      "japanese": "チョ",
+      "romaji": "cho",
+      "english": "cho"
+    },
+    {
+      "id": "katakana-30cb-30e3",
+      "group": "katakana",
+      "japanese": "ニャ",
+      "romaji": "nya",
+      "english": "nya"
+    },
+    {
+      "id": "katakana-30cb-30e5",
+      "group": "katakana",
+      "japanese": "ニュ",
+      "romaji": "nyu",
+      "english": "nyu"
+    },
+    {
+      "id": "katakana-30cb-30e7",
+      "group": "katakana",
+      "japanese": "ニョ",
+      "romaji": "nyo",
+      "english": "nyo"
+    },
+    {
+      "id": "katakana-30d2-30e3",
+      "group": "katakana",
+      "japanese": "ヒャ",
+      "romaji": "hya",
+      "english": "hya"
+    },
+    {
+      "id": "katakana-30d2-30e5",
+      "group": "katakana",
+      "japanese": "ヒュ",
+      "romaji": "hyu",
+      "english": "hyu"
+    },
+    {
+      "id": "katakana-30d2-30e7",
+      "group": "katakana",
+      "japanese": "ヒョ",
+      "romaji": "hyo",
+      "english": "hyo"
+    },
+    {
+      "id": "katakana-30df-30e3",
+      "group": "katakana",
+      "japanese": "ミャ",
+      "romaji": "mya",
+      "english": "mya"
+    },
+    {
+      "id": "katakana-30df-30e5",
+      "group": "katakana",
+      "japanese": "ミュ",
+      "romaji": "myu",
+      "english": "myu"
+    },
+    {
+      "id": "katakana-30df-30e7",
+      "group": "katakana",
+      "japanese": "ミョ",
+      "romaji": "myo",
+      "english": "myo"
+    },
+    {
+      "id": "katakana-30ea-30e3",
+      "group": "katakana",
+      "japanese": "リャ",
+      "romaji": "rya",
+      "english": "rya"
+    },
+    {
+      "id": "katakana-30ea-30e5",
+      "group": "katakana",
+      "japanese": "リュ",
+      "romaji": "ryu",
+      "english": "ryu"
+    },
+    {
+      "id": "katakana-30ea-30e7",
+      "group": "katakana",
+      "japanese": "リョ",
+      "romaji": "ryo",
+      "english": "ryo"
+    },
+    {
+      "id": "katakana-30ae-30e3",
+      "group": "katakana",
+      "japanese": "ギャ",
+      "romaji": "gya",
+      "english": "gya"
+    },
+    {
+      "id": "katakana-30ae-30e5",
+      "group": "katakana",
+      "japanese": "ギュ",
+      "romaji": "gyu",
+      "english": "gyu"
+    },
+    {
+      "id": "katakana-30ae-30e7",
+      "group": "katakana",
+      "japanese": "ギョ",
+      "romaji": "gyo",
+      "english": "gyo"
+    },
+    {
+      "id": "katakana-30b8-30e3",
+      "group": "katakana",
+      "japanese": "ジャ",
+      "romaji": "ja",
+      "english": "ja"
+    },
+    {
+      "id": "katakana-30b8-30e5",
+      "group": "katakana",
+      "japanese": "ジュ",
+      "romaji": "ju",
+      "english": "ju"
+    },
+    {
+      "id": "katakana-30b8-30e7",
+      "group": "katakana",
+      "japanese": "ジョ",
+      "romaji": "jo",
+      "english": "jo"
+    },
+    {
+      "id": "katakana-30d3-30e3",
+      "group": "katakana",
+      "japanese": "ビャ",
+      "romaji": "bya",
+      "english": "bya"
+    },
+    {
+      "id": "katakana-30d3-30e5",
+      "group": "katakana",
+      "japanese": "ビュ",
+      "romaji": "byu",
+      "english": "byu"
+    },
+    {
+      "id": "katakana-30d3-30e7",
+      "group": "katakana",
+      "japanese": "ビョ",
+      "romaji": "byo",
+      "english": "byo"
+    },
+    {
+      "id": "katakana-30d4-30e3",
+      "group": "katakana",
+      "japanese": "ピャ",
+      "romaji": "pya",
+      "english": "pya"
+    },
+    {
+      "id": "katakana-30d4-30e5",
+      "group": "katakana",
+      "japanese": "ピュ",
+      "romaji": "pyu",
+      "english": "pyu"
+    },
+    {
+      "id": "katakana-30d4-30e7",
+      "group": "katakana",
+      "japanese": "ピョ",
+      "romaji": "pyo",
+      "english": "pyo"
+    }
+  ]
+}

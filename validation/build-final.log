@@ -1,0 +1,173 @@
+********************************************************************************
+Obsolete PIO Core v6.1.19 is used (previous was 6.2.0)
+Please remove multiple PIO Cores from a system:
+https://docs.platformio.org/en/latest/core/installation/troubleshooting.html
+********************************************************************************
+Processing folloup-one (platform: https://github.com/pioarduino/platform-espressif32/releases/download/55.03.37/platform-espressif32.zip; board: esp32-s3-devkitc1-n16r8; framework: arduino)
+--------------------------------------------------------------------------------
+Verbose mode can be enabled via `-v, --verbose` option
+Patched wolfSSL settings: .pio\libdeps\folloup-one\Arduino-wolfSSL\src\user_settings.h
+Patched wolfSSL settings: .pio\libdeps\waveshare397\Arduino-wolfSSL\src\user_settings.h
+Generated: src\network\html\FilesPageHtml.generated.h
+  Original: 223743 bytes
+  Minified: 219515 bytes (98.1%)
+  Compressed: 51336 bytes (22.9%)
+Generated: src\network\html\FontsPageHtml.generated.h
+  Original: 10940 bytes
+  Minified: 10772 bytes (98.5%)
+  Compressed: 3285 bytes (30.0%)
+Generated: src\network\html\HomePageHtml.generated.h
+  Original: 4514 bytes
+  Minified: 4226 bytes (93.6%)
+  Compressed: 1446 bytes (32.0%)
+Generated: src\network\html\SettingsPageHtml.generated.h
+  Original: 25672 bytes
+  Minified: 25556 bytes (99.5%)
+  Compressed: 5790 bytes (22.6%)
+Generated: src\network\html\js\jszip_minJs.generated.h
+  Original: 97630 bytes
+  Minified: 97630 bytes (100.0%)
+  Compressed: 28379 bytes (29.1%)
+Language              Code  Own  Fallback  Unused  Data (B)
+--------------------  ----  ---  --------  ------  --------
+English               EN    479  0         4       8119    
+العربية               AR    429  50        0       12766   
+Беларуская            BE    429  50        0       14461   
+Bosanski              BS    429  50        0       8698    
+Català                CA    430  49        0       9489    
+Valencià              CAV   430  49        0       9443    
+Čeština               CS    429  50        0       9103    
+Dansk                 DA    315  164       0       5218    
+Deutsch               DE    429  50        0       7994    
+Español               ES    430  49        0       8869    
+Suomi                 FI    285  194       0       5245    
+Français              FR    429  50        0       8248    
+עברית                 HE    429  50        0       10900   
+Magyar                HU    429  50        0       9375    
+Bahasa Indonesia      ID    429  50        0       8125    
+Italiano              IT    428  51        0       8155    
+Қазақша               KK    429  50        0       14696   
+Lietuvių              LT    429  50        0       7394    
+Norsk bokmål          NB    429  50        0       7666    
+Nederlands            NL    315  164       0       5188    
+Orangutan             OOK   322  157       0       2430    
+Português (Portugal)  P2    429  50        0       9191    
+Polski                PL    429  50        0       8547    
+Português (Brasil)    PT    429  50        0       8455    
+Română                RO    315  164       0       5902    
+Русский               RU    426  53        0       13896   
+Slovenščina           SI    429  50        0       8590    
+Slovenčina            SK    429  50        0       9159    
+Svenska               SV    429  50        0       8216    
+Türkçe                TR    429  50        0       8485    
+Українська            UK    429  50        0       14789   
+Tiếng Việt            VI    429  50        0       9651    
+
+  Total: 479  |  Used in code: 475  |  Never used: 4
+  Flash: 286,463 B strings (deduped)  +  30,656 B offset tables  =  317,119 B
+
+  Stripping 4 unused string(s) from output.
+
+Code generation complete!
+  Languages: 32
+  String keys: 475
+CONFIGURATION: https://docs.platformio.org/page/boards/espressif32/esp32-s3-devkitc1-n16r8.html
+PLATFORM: Espressif 32 (55.3.37) > Espressif ESP32-S3-DevKitC-1-N16R8V (16 MB Flash Quad, 8 MB PSRAM Octal)
+HARDWARE: ESP32S3 240MHz, 320KB RAM, 6.25MB Flash
+DEBUG: Current (esp-builtin) On-board (esp-builtin) External (cmsis-dap, esp-bridge, esp-prog, iot-bus-jtag, jlink, minimodule, olimex-arm-usb-ocd, olimex-arm-usb-ocd-h, olimex-arm-usb-tiny-h, olimex-jtag-tiny, tumpa)
+PACKAGES: 
+ - contrib-piohome @ 3.4.4 
+ - framework-arduinoespressif32 @ 3.3.7 
+ - framework-arduinoespressif32-libs @ 5.5.0+sha.87912cd291 
+ - tool-cppcheck @ 2.11.0+230717 
+ - tool-esptoolpy @ 5.1.2 
+ - toolchain-xtensa-esp-elf @ 14.2.0+20251107
+[ComponentManager] Ignored library: bt (55 entries)
+[ComponentManager] Updated build file (55 total removals)
+[ComponentManager] Processed 1 ignored libraries
+[ComponentManager] Session completed with 3 changes
+*** WARNING: Windows Long Path Support is disabled ***
+*** Enable it for better performance: ***
+*** 1. Run as Administrator: gpedit.msc ***
+*** 2. Navigate to: Computer Configuration > Administrative Templates > System > Filesystem ***
+*** 3. Enable 'Enable Win32 long paths' ***
+*** OR run PowerShell as Admin: ***
+*** New-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem' -Name 'LongPathsEnabled' -Value 1 -PropertyType DWORD -Force ***
+*** Restart required after enabling ***
+LDF: Library Dependency Finder -> https://bit.ly/configure-pio-ldf
+LDF Modes: Finder ~ chain, Compatibility ~ soft
+Found 91 compatible libraries
+Scanning dependencies...
+Dependency Graph
+|-- BatteryMonitor @ 2.0.0
+|-- InputManager @ 2.0.0
+|-- EInkDisplay @ 2.0.0
+|-- SDCardManager @ 2.0.0
+|-- BoardConfig @ 2.0.0
+|-- XteinkDetect @ 1.0.0
+|-- PowerManager @ 1.0.0
+|-- FrontlightManager @ 1.0.0
+|-- Rtc @ 1.0.0
+|-- Imu @ 1.0.0
+|-- SecureNet @ 1.0.0
+|-- FreeInkUI @ 0.1.0
+|-- Icons @ 1.0.0
+|-- ArduinoJson @ 7.4.2
+|-- QRCode @ 0.0.1
+|-- PNGdec @ 1.1.6
+|-- JPEGDEC @ 1.2.7+sha.8628297
+|-- WebSockets @ 2.7.3
+|-- Arduino-wolfSSL @ 5.7.2
+|-- Axp2101 @ 1.0.0
+|-- XPowersLib @ 0.3.3
+|-- esp_codec_dev @ 1.6.2
+|-- I18n
+|-- Logging
+|-- Serialization
+|-- hal
+|-- GfxRenderer
+|-- Epub
+|-- FsHelpers
+|-- Xtc
+|-- Memory
+|-- Txt
+|-- OpdsParser
+|-- WiFi @ 3.3.7
+|-- Utf8
+|-- ESPmDNS @ 3.3.7
+|-- DNSServer @ 3.3.7
+|-- KOReaderSync
+|-- MiniBidi
+|-- EpdFont
+|-- FolloupUpstream @ 0.1.0
+|-- Preferences @ 3.3.7
+|-- Wire @ 3.3.7
+|-- SPI @ 3.3.7
+|-- JsonParser
+|-- InflateReader
+|-- WebServer @ 3.3.7
+|-- Networking @ 3.3.7
+Building in release mode
+Compiling .pio\build\folloup-one\libcde\FolloupUpstream\gemini_service.cpp.o
+Compiling .pio\build\folloup-one\src\activities\home\HomeActivity.cpp.o
+Compiling .pio\build\folloup-one\src\folloup\NotesActivity.cpp.o
+Compiling .pio\build\folloup-one\src\folloup\NotesEngine.cpp.o
+Compiling .pio\build\folloup-one\src\network\CrossPointWebServer.cpp.o
+Linking .pio\build\folloup-one\firmware.elf
+Firmware metrics can not be shown. Set the terminal codepage to "utf-8" or "cp65001" on Windows.
+Retrieving maximum program size .pio\build\folloup-one\firmware.elf
+Checking size .pio\build\folloup-one\firmware.elf
+Advanced Memory Usage is available via "PlatformIO Home > Project Inspect"
+RAM:   [==        ]  19.9% (used 65204 bytes from 327680 bytes)
+Flash: [========= ]  89.7% (used 5877551 bytes from 6553600 bytes)
+Building .pio\build\folloup-one\firmware.bin
+esptool v5.1.2
+Creating ESP32S3 image...
+Merged 3 ELF sections.
+Successfully created ESP32S3 image.
+========================= [SUCCESS] Took 82.57 seconds =========================
+
+Environment    Status    Duration
+-------------  --------  ------------
+folloup-one    SUCCESS   00:01:22.571
+========================= 1 succeeded in 00:01:22.571 =========================

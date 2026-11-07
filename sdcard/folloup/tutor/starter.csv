@@ -1,0 +1,292 @@
+id,group,japanese,romaji,english
+hiragana-3042,hiragana,あ,a,a
+hiragana-3044,hiragana,い,i,i
+hiragana-3046,hiragana,う,u,u
+hiragana-3048,hiragana,え,e,e
+hiragana-304a,hiragana,お,o,o
+hiragana-304b,hiragana,か,ka,ka
+hiragana-304d,hiragana,き,ki,ki
+hiragana-304f,hiragana,く,ku,ku
+hiragana-3051,hiragana,け,ke,ke
+hiragana-3053,hiragana,こ,ko,ko
+hiragana-3055,hiragana,さ,sa,sa
+hiragana-3057,hiragana,し,shi,shi
+hiragana-3059,hiragana,す,su,su
+hiragana-305b,hiragana,せ,se,se
+hiragana-305d,hiragana,そ,so,so
+hiragana-305f,hiragana,た,ta,ta
+hiragana-3061,hiragana,ち,chi,chi
+hiragana-3064,hiragana,つ,tsu,tsu
+hiragana-3066,hiragana,て,te,te
+hiragana-3068,hiragana,と,to,to
+hiragana-306a,hiragana,な,na,na
+hiragana-306b,hiragana,に,ni,ni
+hiragana-306c,hiragana,ぬ,nu,nu
+hiragana-306d,hiragana,ね,ne,ne
+hiragana-306e,hiragana,の,no,no
+hiragana-306f,hiragana,は,ha,ha
+hiragana-3072,hiragana,ひ,hi,hi
+hiragana-3075,hiragana,ふ,fu,fu
+hiragana-3078,hiragana,へ,he,he
+hiragana-307b,hiragana,ほ,ho,ho
+hiragana-307e,hiragana,ま,ma,ma
+hiragana-307f,hiragana,み,mi,mi
+hiragana-3080,hiragana,む,mu,mu
+hiragana-3081,hiragana,め,me,me
+hiragana-3082,hiragana,も,mo,mo
+hiragana-3084,hiragana,や,ya,ya
+hiragana-3086,hiragana,ゆ,yu,yu
+hiragana-3088,hiragana,よ,yo,yo
+hiragana-3089,hiragana,ら,ra,ra
+hiragana-308a,hiragana,り,ri,ri
+hiragana-308b,hiragana,る,ru,ru
+hiragana-308c,hiragana,れ,re,re
+hiragana-308d,hiragana,ろ,ro,ro
+hiragana-308f,hiragana,わ,wa,wa
+hiragana-3092,hiragana,を,o,o
+hiragana-3093,hiragana,ん,n,n
+hiragana-304c,hiragana,が,ga,ga
+hiragana-304e,hiragana,ぎ,gi,gi
+hiragana-3050,hiragana,ぐ,gu,gu
+hiragana-3052,hiragana,げ,ge,ge
+hiragana-3054,hiragana,ご,go,go
+hiragana-3056,hiragana,ざ,za,za
+hiragana-3058,hiragana,じ,ji,ji
+hiragana-305a,hiragana,ず,zu,zu
+hiragana-305c,hiragana,ぜ,ze,ze
+hiragana-305e,hiragana,ぞ,zo,zo
+hiragana-3060,hiragana,だ,da,da
+hiragana-3062,hiragana,ぢ,ji,ji
+hiragana-3065,hiragana,づ,zu,zu
+hiragana-3067,hiragana,で,de,de
+hiragana-3069,hiragana,ど,do,do
+hiragana-3070,hiragana,ば,ba,ba
+hiragana-3073,hiragana,び,bi,bi
+hiragana-3076,hiragana,ぶ,bu,bu
+hiragana-3079,hiragana,べ,be,be
+hiragana-307c,hiragana,ぼ,bo,bo
+hiragana-3071,hiragana,ぱ,pa,pa
+hiragana-3074,hiragana,ぴ,pi,pi
+hiragana-3077,hiragana,ぷ,pu,pu
+hiragana-307a,hiragana,ぺ,pe,pe
+hiragana-307d,hiragana,ぽ,po,po
+katakana-30a2,katakana,ア,a,a
+katakana-30a4,katakana,イ,i,i
+katakana-30a6,katakana,ウ,u,u
+katakana-30a8,katakana,エ,e,e
+katakana-30aa,katakana,オ,o,o
+katakana-30ab,katakana,カ,ka,ka
+katakana-30ad,katakana,キ,ki,ki
+katakana-30af,katakana,ク,ku,ku
+katakana-30b1,katakana,ケ,ke,ke
+katakana-30b3,katakana,コ,ko,ko
+katakana-30b5,katakana,サ,sa,sa
+katakana-30b7,katakana,シ,shi,shi
+katakana-30b9,katakana,ス,su,su
+katakana-30bb,katakana,セ,se,se
+katakana-30bd,katakana,ソ,so,so
+katakana-30bf,katakana,タ,ta,ta
+katakana-30c1,katakana,チ,chi,chi
+katakana-30c4,katakana,ツ,tsu,tsu
+katakana-30c6,katakana,テ,te,te
+katakana-30c8,katakana,ト,to,to
+katakana-30ca,katakana,ナ,na,na
+katakana-30cb,katakana,ニ,ni,ni
+katakana-30cc,katakana,ヌ,nu,nu
+katakana-30cd,katakana,ネ,ne,ne
+katakana-30ce,katakana,ノ,no,no
+katakana-30cf,katakana,ハ,ha,ha
+katakana-30d2,katakana,ヒ,hi,hi
+katakana-30d5,katakana,フ,fu,fu
+katakana-30d8,katakana,ヘ,he,he
+katakana-30db,katakana,ホ,ho,ho
+katakana-30de,katakana,マ,ma,ma
+katakana-30df,katakana,ミ,mi,mi
+katakana-30e0,katakana,ム,mu,mu
+katakana-30e1,katakana,メ,me,me
+katakana-30e2,katakana,モ,mo,mo
+katakana-30e4,katakana,ヤ,ya,ya
+katakana-30e6,katakana,ユ,yu,yu
+katakana-30e8,katakana,ヨ,yo,yo
+katakana-30e9,katakana,ラ,ra,ra
+katakana-30ea,katakana,リ,ri,ri
+katakana-30eb,katakana,ル,ru,ru
+katakana-30ec,katakana,レ,re,re
+katakana-30ed,katakana,ロ,ro,ro
+katakana-30ef,katakana,ワ,wa,wa
+katakana-30f2,katakana,ヲ,o,o
+katakana-30f3,katakana,ン,n,n
+katakana-30ac,katakana,ガ,ga,ga
+katakana-30ae,katakana,ギ,gi,gi
+katakana-30b0,katakana,グ,gu,gu
+katakana-30b2,katakana,ゲ,ge,ge
+katakana-30b4,katakana,ゴ,go,go
+katakana-30b6,katakana,ザ,za,za
+katakana-30b8,katakana,ジ,ji,ji
+katakana-30ba,katakana,ズ,zu,zu
+katakana-30bc,katakana,ゼ,ze,ze
+katakana-30be,katakana,ゾ,zo,zo
+katakana-30c0,katakana,ダ,da,da
+katakana-30c2,katakana,ヂ,ji,ji
+katakana-30c5,katakana,ヅ,zu,zu
+katakana-30c7,katakana,デ,de,de
+katakana-30c9,katakana,ド,do,do
+katakana-30d0,katakana,バ,ba,ba
+katakana-30d3,katakana,ビ,bi,bi
+katakana-30d6,katakana,ブ,bu,bu
+katakana-30d9,katakana,ベ,be,be
+katakana-30dc,katakana,ボ,bo,bo
+katakana-30d1,katakana,パ,pa,pa
+katakana-30d4,katakana,ピ,pi,pi
+katakana-30d7,katakana,プ,pu,pu
+katakana-30da,katakana,ペ,pe,pe
+katakana-30dd,katakana,ポ,po,po
+vocab-000,vocabulary,こんにちは,konnichiwa,hello
+vocab-001,vocabulary,おはようございます,ohayou gozaimasu,good morning (polite)
+vocab-002,vocabulary,こんばんは,konbanwa,good evening
+vocab-003,vocabulary,おやすみなさい,oyasuminasai,good night
+vocab-004,vocabulary,ありがとうございます,arigatou gozaimasu,thank you (polite)
+vocab-005,vocabulary,すみません,sumimasen,excuse me; sorry
+vocab-006,vocabulary,ごめんなさい,gomennasai,I am sorry
+vocab-007,vocabulary,お願いします,onegaishimasu,please (request)
+vocab-008,vocabulary,はい,hai,yes
+vocab-009,vocabulary,いいえ,iie,no
+vocab-010,vocabulary,はじめまして,hajimemashite,nice to meet you (first meeting)
+vocab-011,vocabulary,よろしくお願いします,yoroshiku onegaishimasu,pleased to meet you; I look forward to working with you
+vocab-012,vocabulary,お元気ですか,ogenki desu ka,how are you?
+vocab-013,vocabulary,元気です,genki desu,I am well
+vocab-014,vocabulary,私,watashi,I; me
+vocab-015,vocabulary,あなた,anata,you
+vocab-016,vocabulary,名前,namae,name
+vocab-017,vocabulary,日本,nihon,Japan
+vocab-018,vocabulary,日本語,nihongo,Japanese language
+vocab-019,vocabulary,英語,eigo,English language
+vocab-020,vocabulary,わかります,wakarimasu,I understand
+vocab-021,vocabulary,わかりません,wakarimasen,I do not understand
+vocab-022,vocabulary,もう一度,mou ichido,once more
+vocab-023,vocabulary,ゆっくり,yukkuri,slowly
+vocab-024,vocabulary,何,nani,what
+vocab-025,vocabulary,どこ,doko,where
+vocab-026,vocabulary,いつ,itsu,when
+vocab-027,vocabulary,だれ,dare,who
+vocab-028,vocabulary,いくら,ikura,how much
+vocab-029,vocabulary,これ,kore,this one
+vocab-030,vocabulary,それ,sore,that one (near you)
+vocab-031,vocabulary,あれ,are,that one over there
+vocab-032,vocabulary,ここ,koko,here
+vocab-033,vocabulary,そこ,soko,there (near you)
+vocab-034,vocabulary,水,mizu,water
+vocab-035,vocabulary,お茶,ocha,tea
+vocab-036,vocabulary,コーヒー,koohii,coffee
+vocab-037,vocabulary,ご飯,gohan,rice; meal
+vocab-038,vocabulary,パン,pan,bread
+vocab-039,vocabulary,魚,sakana,fish
+vocab-040,vocabulary,肉,niku,meat
+vocab-041,vocabulary,野菜,yasai,vegetables
+vocab-042,vocabulary,おいしい,oishii,delicious
+vocab-043,vocabulary,ください,kudasai,please give me
+vocab-044,vocabulary,食べます,tabemasu,eat (polite)
+vocab-045,vocabulary,飲みます,nomimasu,drink (polite)
+vocab-046,vocabulary,行きます,ikimasu,go (polite)
+vocab-047,vocabulary,来ます,kimasu,come (polite)
+vocab-048,vocabulary,見ます,mimasu,see; watch (polite)
+vocab-049,vocabulary,話します,hanashimasu,speak (polite)
+vocab-050,vocabulary,好き,suki,like; fond of
+vocab-051,vocabulary,大丈夫,daijoubu,okay; all right
+vocab-052,vocabulary,今日,kyou,today
+vocab-053,vocabulary,明日,ashita,tomorrow
+vocab-054,vocabulary,昨日,kinou,yesterday
+vocab-055,vocabulary,今,ima,now
+vocab-056,vocabulary,朝,asa,morning
+vocab-057,vocabulary,昼,hiru,noon; daytime
+vocab-058,vocabulary,夜,yoru,night
+vocab-059,vocabulary,一,ichi,one
+vocab-060,vocabulary,二,ni,two
+vocab-061,vocabulary,三,san,three
+vocab-062,vocabulary,四,yon,four
+vocab-063,vocabulary,五,go,five
+vocab-064,vocabulary,六,roku,six
+vocab-065,vocabulary,七,nana,seven
+vocab-066,vocabulary,八,hachi,eight
+vocab-067,vocabulary,九,kyuu,nine
+vocab-068,vocabulary,十,juu,ten
+vocab-069,vocabulary,駅,eki,station
+vocab-070,vocabulary,トイレ,toire,toilet; restroom
+vocab-071,vocabulary,ホテル,hoteru,hotel
+vocab-072,vocabulary,お店,omise,shop
+vocab-073,vocabulary,友達,tomodachi,friend
+vocab-074,vocabulary,家族,kazoku,family
+vocab-075,vocabulary,子供,kodomo,child
+vocab-076,vocabulary,妻,tsuma,my wife
+vocab-077,vocabulary,夫,otto,my husband
+vocab-078,vocabulary,医者,isha,doctor
+vocab-079,vocabulary,歯医者,haisha,dentist
+vocab-080,vocabulary,助けて,tasukete,help me
+vocab-081,vocabulary,またね,mata ne,see you (casual)
+vocab-082,vocabulary,さようなら,sayounara,goodbye
+hiragana-304d-3083,hiragana,きゃ,kya,kya
+hiragana-304d-3085,hiragana,きゅ,kyu,kyu
+hiragana-304d-3087,hiragana,きょ,kyo,kyo
+hiragana-3057-3083,hiragana,しゃ,sha,sha
+hiragana-3057-3085,hiragana,しゅ,shu,shu
+hiragana-3057-3087,hiragana,しょ,sho,sho
+hiragana-3061-3083,hiragana,ちゃ,cha,cha
+hiragana-3061-3085,hiragana,ちゅ,chu,chu
+hiragana-3061-3087,hiragana,ちょ,cho,cho
+hiragana-306b-3083,hiragana,にゃ,nya,nya
+hiragana-306b-3085,hiragana,にゅ,nyu,nyu
+hiragana-306b-3087,hiragana,にょ,nyo,nyo
+hiragana-3072-3083,hiragana,ひゃ,hya,hya
+hiragana-3072-3085,hiragana,ひゅ,hyu,hyu
+hiragana-3072-3087,hiragana,ひょ,hyo,hyo
+hiragana-307f-3083,hiragana,みゃ,mya,mya
+hiragana-307f-3085,hiragana,みゅ,myu,myu
+hiragana-307f-3087,hiragana,みょ,myo,myo
+hiragana-308a-3083,hiragana,りゃ,rya,rya
+hiragana-308a-3085,hiragana,りゅ,ryu,ryu
+hiragana-308a-3087,hiragana,りょ,ryo,ryo
+hiragana-304e-3083,hiragana,ぎゃ,gya,gya
+hiragana-304e-3085,hiragana,ぎゅ,gyu,gyu
+hiragana-304e-3087,hiragana,ぎょ,gyo,gyo
+hiragana-3058-3083,hiragana,じゃ,ja,ja
+hiragana-3058-3085,hiragana,じゅ,ju,ju
+hiragana-3058-3087,hiragana,じょ,jo,jo
+hiragana-3073-3083,hiragana,びゃ,bya,bya
+hiragana-3073-3085,hiragana,びゅ,byu,byu
+hiragana-3073-3087,hiragana,びょ,byo,byo
+hiragana-3074-3083,hiragana,ぴゃ,pya,pya
+hiragana-3074-3085,hiragana,ぴゅ,pyu,pyu
+hiragana-3074-3087,hiragana,ぴょ,pyo,pyo
+katakana-30ad-30e3,katakana,キャ,kya,kya
+katakana-30ad-30e5,katakana,キュ,kyu,kyu
+katakana-30ad-30e7,katakana,キョ,kyo,kyo
+katakana-30b7-30e3,katakana,シャ,sha,sha
+katakana-30b7-30e5,katakana,シュ,shu,shu
+katakana-30b7-30e7,katakana,ショ,sho,sho
+katakana-30c1-30e3,katakana,チャ,cha,cha
+katakana-30c1-30e5,katakana,チュ,chu,chu
+katakana-30c1-30e7,katakana,チョ,cho,cho
+katakana-30cb-30e3,katakana,ニャ,nya,nya
+katakana-30cb-30e5,katakana,ニュ,nyu,nyu
+katakana-30cb-30e7,katakana,ニョ,nyo,nyo
+katakana-30d2-30e3,katakana,ヒャ,hya,hya
+katakana-30d2-30e5,katakana,ヒュ,hyu,hyu
+katakana-30d2-30e7,katakana,ヒョ,hyo,hyo
+katakana-30df-30e3,katakana,ミャ,mya,mya
+katakana-30df-30e5,katakana,ミュ,myu,myu
+katakana-30df-30e7,katakana,ミョ,myo,myo
+katakana-30ea-30e3,katakana,リャ,rya,rya
+katakana-30ea-30e5,katakana,リュ,ryu,ryu
+katakana-30ea-30e7,katakana,リョ,ryo,ryo
+katakana-30ae-30e3,katakana,ギャ,gya,gya
+katakana-30ae-30e5,katakana,ギュ,gyu,gyu
+katakana-30ae-30e7,katakana,ギョ,gyo,gyo
+katakana-30b8-30e3,katakana,ジャ,ja,ja
+katakana-30b8-30e5,katakana,ジュ,ju,ju
+katakana-30b8-30e7,katakana,ジョ,jo,jo
+katakana-30d3-30e3,katakana,ビャ,bya,bya
+katakana-30d3-30e5,katakana,ビュ,byu,byu
+katakana-30d3-30e7,katakana,ビョ,byo,byo
+katakana-30d4-30e3,katakana,ピャ,pya,pya
+katakana-30d4-30e5,katakana,ピュ,pyu,pyu
+katakana-30d4-30e7,katakana,ピョ,pyo,pyo

@@ -1,0 +1,22 @@
+{
+  "Folloup-One-Source.zip": {
+    "bytes": 64632061,
+    "sha256": "847107950c3ed94f933b3cb5dd4d3c5ba0b24e2e3a83c5972d4b58d2f7b4e45f"
+  },
+  "Folloup-One-Firmware.bin": {
+    "bytes": 5943600,
+    "sha256": "09807a73f8ee6f4b73b011b398b5d7834032c73d08ceb140ea3a94f58f02b361"
+  },
+  "Folloup-One-Installation.md": {
+    "bytes": 11059,
+    "sha256": "cd589a035c6796871bcc95c36c94d3d5e6a86cace079d427e29aa56e49e0de8b"
+  },
+  "Folloup-One-Validation.md": {
+    "bytes": 13684,
+    "sha256": "26137bcc5ea858a6b00b1e2a702412a5789caa186867a6cae7c11b32100ddd09"
+  },
+  "Folloup-One-Japanese-Starter-Deck.json": {
+    "bytes": 44198,
+    "sha256": "993df0c7cef78d074960991d0a43bd0c7a53793e548572b449c2d310bc3e0c8f"
+  }
+}

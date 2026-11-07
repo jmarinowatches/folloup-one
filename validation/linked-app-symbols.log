@@ -1,0 +1,19 @@
+42090218 T gemini_service::Transcribe(recording_service::RecordedClip const&)
+420b8a2c T EpubReaderActivity::renderBook()
+420b5c78 T EpubReaderActivity::renderContents(std::unique_ptr<Page, std::default_delete<Page> >, int, int, int, int)
+420e7ef0 T folloup::NotesEngine::processQueue()
+420e75d0 T folloup::NotesEngine::record()
+420e9414 T folloup::OneActivity::render(RenderLock&&)
+420e3374 T folloup::NotesActivity::render(RenderLock&&)
+420b5960 T EpubReaderActivity::renderStatusBar() const
+421ce884 t std::_Function_handler<void (), EpubReaderActivity::renderBook()::{lambda()#3}>::_M_manager(std::_Any_data&, std::_Any_data const&, std::_Manager_operation)
+420b4b64 t std::_Function_handler<void (), EpubReaderActivity::renderBook()::{lambda()#3}>::_M_invoke(std::_Any_data const&)
+421ce860 t std::_Function_handler<void (), EpubReaderActivity::renderBook()::{lambda()#4}>::_M_manager(std::_Any_data&, std::_Any_data const&, std::_Manager_operation)
+420b4f78 t std::_Function_handler<void (), EpubReaderActivity::renderBook()::{lambda()#4}>::_M_invoke(std::_Any_data const&)
+420b498c t EpubReaderActivity::renderBook()::{lambda()#2}::operator()() const
+420b4ad4 t EpubReaderActivity::renderContents(std::unique_ptr<Page, std::default_delete<Page> >, int, int, int, int)::{lambda(bool, unsigned char*)#1}::operator()(bool, unsigned char*) const
+420b4aa0 t EpubReaderActivity::renderContents(std::unique_ptr<Page, std::default_delete<Page> >, int, int, int, int)::{lambda()#1}::operator()() const
+420b4934 t EpubReaderActivity::renderContents(std::unique_ptr<Page, std::default_delete<Page> >, int, int, int, int)::{lambda()#2}::operator()() const
+3fca1298 b folloup::OneActivity::render(RenderLock&&)::refreshCount
+420e9360 t folloup::OneActivity::render(RenderLock&&)::{lambda(int)#1}::operator()(int) const
+3fca1268 b folloup::NotesActivity::render(RenderLock&&)::refreshCount

@@ -1,0 +1,4 @@
+[submodule "freeink-sdk"]
+	path = freeink-sdk
+	url = https://github.com/devofreck/freeink-sdk.git
+	branch = codex/waveshare-397-port

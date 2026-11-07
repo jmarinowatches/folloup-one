@@ -1,0 +1,282 @@
+Test project C:/Users/jmari/Documents/Codex/2026-11-07/new-chat-2/work/host-tests
+        Start   1: StreamingJsonParser.SimpleObject
+        Start   2: StreamingJsonParser.NestedObjects
+        Start   3: StreamingJsonParser.ArrayOfValues
+        Start   4: StreamingJsonParser.ArrayOfObjects
+  1/138 Test   #1: StreamingJsonParser.SimpleObject ...................................   Passed    0.06 sec
+  2/138 Test   #2: StreamingJsonParser.NestedObjects ..................................   Passed    0.02 sec
+        Start   5: StreamingJsonParser.StringEscapes
+        Start   6: StreamingJsonParser.UnicodeEscapePassthrough
+  3/138 Test   #3: StreamingJsonParser.ArrayOfValues ..................................   Passed    0.02 sec
+        Start   7: StreamingJsonParser.Numbers
+  4/138 Test   #4: StreamingJsonParser.ArrayOfObjects .................................   Passed    0.02 sec
+  5/138 Test   #5: StreamingJsonParser.StringEscapes ..................................   Passed    0.02 sec
+        Start   8: StreamingJsonParser.BooleansAndNull
+        Start   9: StreamingJsonParser.ChunkedFeeding
+  6/138 Test   #6: StreamingJsonParser.UnicodeEscapePassthrough .......................   Passed    0.02 sec
+        Start  10: StreamingJsonParser.EveryByteBoundary
+  7/138 Test   #7: StreamingJsonParser.Numbers ........................................   Passed    0.02 sec
+  8/138 Test   #8: StreamingJsonParser.BooleansAndNull ................................   Passed    0.02 sec
+        Start  11: StreamingJsonParser.LargeTokenTruncation
+        Start  12: StreamingJsonParser.EmptyObject
+  9/138 Test   #9: StreamingJsonParser.ChunkedFeeding .................................   Passed    0.02 sec
+        Start  13: StreamingJsonParser.EmptyArray
+ 10/138 Test  #10: StreamingJsonParser.EveryByteBoundary ..............................   Passed    0.02 sec
+ 11/138 Test  #11: StreamingJsonParser.LargeTokenTruncation ...........................   Passed    0.02 sec
+        Start  14: StreamingJsonParser.NestedArrays
+        Start  15: StreamingJsonParser.TopLevelArray
+ 12/138 Test  #12: StreamingJsonParser.EmptyObject ....................................   Passed    0.02 sec
+        Start  16: StreamingJsonParser.WhitespaceVariants
+ 13/138 Test  #13: StreamingJsonParser.EmptyArray .....................................   Passed    0.02 sec
+ 14/138 Test  #14: StreamingJsonParser.NestedArrays ...................................   Passed    0.02 sec
+        Start  17: StreamingJsonParser.ResetBetweenDocuments
+        Start  18: StreamingJsonParser.NumberAtEndOfInput
+ 15/138 Test  #15: StreamingJsonParser.TopLevelArray ..................................   Passed    0.02 sec
+        Start  19: StreamingJsonParser.ArrayOfStrings
+ 16/138 Test  #16: StreamingJsonParser.WhitespaceVariants .............................   Passed    0.02 sec
+ 17/138 Test  #17: StreamingJsonParser.ResetBetweenDocuments ..........................   Passed    0.02 sec
+        Start  20: StreamingJsonParser.TruncatedInputNoCrash
+        Start  21: StreamingJsonParser.AllEscapeSequences
+ 18/138 Test  #18: StreamingJsonParser.NumberAtEndOfInput .............................   Passed    0.02 sec
+        Start  22: StreamingJsonParser.ObjectInArray
+ 19/138 Test  #19: StreamingJsonParser.ArrayOfStrings .................................   Passed    0.02 sec
+ 20/138 Test  #20: StreamingJsonParser.TruncatedInputNoCrash ..........................   Passed    0.02 sec
+        Start  23: StreamingJsonParser.DeeplyNested
+        Start  24: StreamingJsonParser.NestingOverflow
+ 21/138 Test  #21: StreamingJsonParser.AllEscapeSequences .............................   Passed    0.02 sec
+        Start  25: StreamingJsonParser.NumberZero
+ 22/138 Test  #22: StreamingJsonParser.ObjectInArray ..................................   Passed    0.02 sec
+ 23/138 Test  #23: StreamingJsonParser.DeeplyNested ...................................   Passed    0.02 sec
+        Start  26: StreamingJsonParser.MultipleValuesInObject
+        Start  27: StreamingJsonParser.ChunkedSplitInsideString
+ 24/138 Test  #24: StreamingJsonParser.NestingOverflow ................................   Passed    0.02 sec
+        Start  28: StreamingJsonParser.ChunkedSplitInsideEscape
+ 25/138 Test  #25: StreamingJsonParser.NumberZero .....................................   Passed    0.02 sec
+ 26/138 Test  #26: StreamingJsonParser.MultipleValuesInObject .........................   Passed    0.02 sec
+        Start  29: StreamingJsonParser.ChunkedSplitInsideLiteral
+        Start  30: StreamingJsonParser.NullCallbacksNoCrash
+ 27/138 Test  #27: StreamingJsonParser.ChunkedSplitInsideString .......................   Passed    0.02 sec
+        Start  31: ReleaseJsonParser.RealisticPrettyPrinted
+ 28/138 Test  #28: StreamingJsonParser.ChunkedSplitInsideEscape .......................   Passed    0.07 sec
+ 29/138 Test  #29: StreamingJsonParser.ChunkedSplitInsideLiteral ......................   Passed    0.07 sec
+        Start  32: ReleaseJsonParser.RealisticMinified
+        Start  33: ReleaseJsonParser.PrettyAndMinifiedAgree
+ 30/138 Test  #30: StreamingJsonParser.NullCallbacksNoCrash ...........................   Passed    0.07 sec
+        Start  34: ReleaseJsonParser.FirmwareNotFirstAsset
+ 31/138 Test  #31: ReleaseJsonParser.RealisticPrettyPrinted ...........................   Passed    0.07 sec
+ 32/138 Test  #32: ReleaseJsonParser.RealisticMinified ................................   Passed    0.02 sec
+        Start  35: ReleaseJsonParser.FieldOrderUrlBeforeName
+        Start  36: ReleaseJsonParser.FieldOrderSizeBeforeUrl
+ 33/138 Test  #33: ReleaseJsonParser.PrettyAndMinifiedAgree ...........................   Passed    0.03 sec
+        Start  37: ReleaseJsonParser.FieldOrderNameFirst
+ 34/138 Test  #34: ReleaseJsonParser.FirmwareNotFirstAsset ............................   Passed    0.03 sec
+ 35/138 Test  #35: ReleaseJsonParser.FieldOrderUrlBeforeName ..........................   Passed    0.02 sec
+        Start  38: ReleaseJsonParser.AssetsBeforeTagName
+        Start  39: ReleaseJsonParser.ChunkedFeedingSmallChunks
+ 36/138 Test  #36: ReleaseJsonParser.FieldOrderSizeBeforeUrl ..........................   Passed    0.02 sec
+        Start  40: ReleaseJsonParser.ChunkedFeedingByteByByte
+ 37/138 Test  #37: ReleaseJsonParser.FieldOrderNameFirst ..............................   Passed    0.02 sec
+ 38/138 Test  #38: ReleaseJsonParser.AssetsBeforeTagName ..............................   Passed    0.02 sec
+        Start  41: ReleaseJsonParser.ChunkedFeedingVariousChunkSizes
+        Start  42: ReleaseJsonParser.MissingTagName
+ 39/138 Test  #39: ReleaseJsonParser.ChunkedFeedingSmallChunks ........................   Passed    0.02 sec
+        Start  43: ReleaseJsonParser.MissingFirmwareBinAsset
+ 40/138 Test  #40: ReleaseJsonParser.ChunkedFeedingByteByByte .........................   Passed    0.02 sec
+ 41/138 Test  #41: ReleaseJsonParser.ChunkedFeedingVariousChunkSizes ..................   Passed    0.02 sec
+        Start  44: ReleaseJsonParser.EmptyAssetsArray
+        Start  45: ReleaseJsonParser.NoAssetsKey
+ 42/138 Test  #42: ReleaseJsonParser.MissingTagName ...................................   Passed    0.02 sec
+        Start  46: ReleaseJsonParser.TruncatedBeforeTagValue
+ 43/138 Test  #43: ReleaseJsonParser.MissingFirmwareBinAsset ..........................   Passed    0.03 sec
+ 44/138 Test  #44: ReleaseJsonParser.EmptyAssetsArray .................................   Passed    0.02 sec
+        Start  47: ReleaseJsonParser.TruncatedInsideTagValue
+        Start  48: ReleaseJsonParser.TruncatedInsideAssetsArray
+ 45/138 Test  #45: ReleaseJsonParser.NoAssetsKey ......................................   Passed    0.02 sec
+        Start  49: ReleaseJsonParser.TruncatedAfterFirmwareName
+ 46/138 Test  #46: ReleaseJsonParser.TruncatedBeforeTagValue ..........................   Passed    0.02 sec
+ 47/138 Test  #47: ReleaseJsonParser.TruncatedInsideTagValue ..........................   Passed    0.02 sec
+        Start  50: ReleaseJsonParser.TruncatedRealisticJson
+        Start  51: ReleaseJsonParser.NestedObjectsInAsset
+ 48/138 Test  #48: ReleaseJsonParser.TruncatedInsideAssetsArray .......................   Passed    0.02 sec
+        Start  52: ReleaseJsonParser.NestedObjectsAtTopLevel
+ 49/138 Test  #49: ReleaseJsonParser.TruncatedAfterFirmwareName .......................   Passed    0.02 sec
+ 50/138 Test  #50: ReleaseJsonParser.TruncatedRealisticJson ...........................   Passed    0.02 sec
+        Start  53: ReleaseJsonParser.ArraysAtTopLevel
+        Start  54: ReleaseJsonParser.ResetAndReuse
+ 51/138 Test  #51: ReleaseJsonParser.NestedObjectsInAsset .............................   Passed    0.02 sec
+        Start  55: ReleaseJsonParser.ResetClearsState
+ 52/138 Test  #52: ReleaseJsonParser.NestedObjectsAtTopLevel ..........................   Passed    0.02 sec
+ 53/138 Test  #53: ReleaseJsonParser.ArraysAtTopLevel .................................   Passed    0.02 sec
+        Start  56: ReleaseJsonParser.PartialAssetNameMatch
+        Start  57: ReleaseJsonParser.FirmwareBinExactMatch
+ 54/138 Test  #54: ReleaseJsonParser.ResetAndReuse ....................................   Passed    0.02 sec
+        Start  58: ReleaseJsonParser.LargeSize
+ 55/138 Test  #55: ReleaseJsonParser.ResetClearsState .................................   Passed    0.02 sec
+ 56/138 Test  #56: ReleaseJsonParser.PartialAssetNameMatch ............................   Passed    0.02 sec
+        Start  59: ReleaseJsonParser.SizeZero
+        Start  60: ReleaseJsonParser.MinimalValidJson
+ 57/138 Test  #57: ReleaseJsonParser.FirmwareBinExactMatch ............................   Passed    0.02 sec
+        Start  61: ReleaseJsonParser.ChunkedRealisticEveryBoundary
+ 58/138 Test  #58: ReleaseJsonParser.LargeSize ........................................   Passed    0.02 sec
+ 59/138 Test  #59: ReleaseJsonParser.SizeZero .........................................   Passed    0.02 sec
+        Start  62: Fp4Math.RoundTripIntegerPixels
+        Start  63: Fp4Math.RoundingBoundaries
+ 60/138 Test  #60: ReleaseJsonParser.MinimalValidJson .................................   Passed    0.04 sec
+        Start  64: Fp4Math.OldApproachInconsistency
+ 61/138 Test  #61: ReleaseJsonParser.ChunkedRealisticEveryBoundary ....................   Passed    0.04 sec
+ 62/138 Test  #62: Fp4Math.RoundTripIntegerPixels .....................................   Passed    0.03 sec
+        Start  65: Fp4Math.ExhaustiveKernRange
+        Start  66: EpdFont.KernLookup
+ 63/138 Test  #63: Fp4Math.RoundingBoundaries .........................................   Passed    0.02 sec
+        Start  67: EpdFont.GlyphLookup
+ 64/138 Test  #64: Fp4Math.OldApproachInconsistency ...................................   Passed    0.02 sec
+ 65/138 Test  #65: Fp4Math.ExhaustiveKernRange ........................................   Passed    0.02 sec
+        Start  68: EpdFont.KnownWidths
+        Start  69: EpdFont.PairConsistencyViaFont
+ 66/138 Test  #66: EpdFont.KernLookup .................................................   Passed    0.02 sec
+        Start  70: EpdFont.NullGlyphAdvancePreserved
+ 67/138 Test  #67: EpdFont.GlyphLookup ................................................   Passed    0.02 sec
+ 68/138 Test  #68: EpdFont.KnownWidths ................................................   Passed    0.02 sec
+        Start  71: EpdFont.HeightCalculation
+        Start  72: HyphenationEval.English
+ 69/138 Test  #69: EpdFont.PairConsistencyViaFont .....................................   Passed    0.06 sec
+        Start  73: HyphenationEval.French
+ 70/138 Test  #70: EpdFont.NullGlyphAdvancePreserved ..................................   Passed    0.06 sec
+ 71/138 Test  #71: EpdFont.HeightCalculation ..........................................   Passed    0.06 sec
+        Start  74: HyphenationEval.German
+        Start  75: HyphenationEval.Russian
+ 72/138 Test  #72: HyphenationEval.English ............................................   Passed    0.06 sec
+        Start  76: HyphenationEval.Spanish
+ 73/138 Test  #73: HyphenationEval.French .............................................   Passed    0.03 sec
+        Start  77: HyphenationEval.Italian
+ 74/138 Test  #74: HyphenationEval.German .............................................   Passed    0.03 sec
+        Start  78: HyphenationEval.Polish
+ 75/138 Test  #76: HyphenationEval.Spanish ............................................   Passed    0.03 sec
+        Start  79: HyphenationEval.Swedish
+ 76/138 Test  #77: HyphenationEval.Italian ............................................   Passed    0.03 sec
+        Start  80: Utf8ComposeNfc.PassesThroughAsciiAndNfc
+ 77/138 Test  #79: HyphenationEval.Swedish ............................................   Passed    0.05 sec
+        Start  81: Utf8ComposeNfc.ComposesSingleMark
+ 78/138 Test  #78: HyphenationEval.Polish .............................................   Passed    0.07 sec
+        Start  82: Utf8ComposeNfc.ComposesStackedVietnameseMarks
+ 79/138 Test  #80: Utf8ComposeNfc.PassesThroughAsciiAndNfc ............................   Passed    0.06 sec
+        Start  83: Utf8ComposeNfc.LeavesUncomposableMarksIntact
+ 80/138 Test  #81: Utf8ComposeNfc.ComposesSingleMark ..................................   Passed    0.02 sec
+        Start  84: Utf8ComposeNfc.HandlesLeadingMark
+ 81/138 Test  #82: Utf8ComposeNfc.ComposesStackedVietnameseMarks ......................   Passed    0.02 sec
+        Start  85: Utf8ComposeNfc.ComposesWithinWord
+ 82/138 Test  #83: Utf8ComposeNfc.LeavesUncomposableMarksIntact .......................   Passed    0.02 sec
+        Start  86: OpdsFilename.AuthorTitleIsDefaultOrder
+ 83/138 Test  #84: Utf8ComposeNfc.HandlesLeadingMark ..................................   Passed    0.06 sec
+ 84/138 Test  #75: HyphenationEval.Russian ............................................   Passed    0.17 sec
+        Start  87: OpdsFilename.TitleAuthorSwapsOrder
+        Start  88: OpdsFilename.TitleOnlyIgnoresAuthor
+ 85/138 Test  #85: Utf8ComposeNfc.ComposesWithinWord ..................................   Passed    0.07 sec
+        Start  89: OpdsFilename.EmptyAuthorCollapsesToTitleForEveryFormat
+ 86/138 Test  #86: OpdsFilename.AuthorTitleIsDefaultOrder .............................   Passed    0.07 sec
+ 87/138 Test  #87: OpdsFilename.TitleAuthorSwapsOrder .................................   Passed    0.02 sec
+        Start  90: OpdsFilename.IllegalCharactersAreSanitized
+        Start  91: OpdsFilename.EmptyAuthorAndTitleFallsBackToBook
+ 88/138 Test  #88: OpdsFilename.TitleOnlyIgnoresAuthor ................................   Passed    0.02 sec
+        Start  92: OpdsFilename.LongNameIsTruncatedToByteBudgetBeforeExtension
+ 89/138 Test  #89: OpdsFilename.EmptyAuthorCollapsesToTitleForEveryFormat .............   Passed    0.02 sec
+ 90/138 Test  #90: OpdsFilename.IllegalCharactersAreSanitized .........................   Passed    0.02 sec
+        Start  93: OpdsFilename.UnknownFormatValueFallsBackToAuthorTitle
+        Start  94: ArabicShaping.SingleLetterIsolated
+ 91/138 Test  #91: OpdsFilename.EmptyAuthorAndTitleFallsBackToBook ....................   Passed    0.07 sec
+        Start  95: ArabicShaping.RightJoinersStayIsolated
+ 92/138 Test  #92: OpdsFilename.LongNameIsTruncatedToByteBudgetBeforeExtension ........   Passed    0.07 sec
+ 93/138 Test  #93: OpdsFilename.UnknownFormatValueFallsBackToAuthorTitle ..............   Passed    0.06 sec
+        Start  96: ArabicShaping.DualJoiningChain
+        Start  97: ArabicShaping.MedialForms
+ 94/138 Test  #94: ArabicShaping.SingleLetterIsolated .................................   Passed    0.07 sec
+        Start  98: ArabicShaping.TatweelJoinsBothSides
+ 95/138 Test  #95: ArabicShaping.RightJoinersStayIsolated .............................   Passed    0.02 sec
+ 96/138 Test  #96: ArabicShaping.DualJoiningChain .....................................   Passed    0.02 sec
+        Start  99: ArabicShaping.LamAlefIsolatedVariants
+        Start 100: ArabicShaping.LamAlefFinalVariants
+ 97/138 Test  #97: ArabicShaping.MedialForms ..........................................   Passed    0.08 sec
+        Start 101: ArabicShaping.LamAlefWithDiacriticBetween
+ 98/138 Test  #98: ArabicShaping.TatweelJoinsBothSides ................................   Passed    0.08 sec
+ 99/138 Test  #99: ArabicShaping.LamAlefIsolatedVariants ..............................   Passed    0.07 sec
+        Start 102: ArabicShaping.VocalizedTextJoinsAcrossHarakat
+        Start 103: ArabicShaping.StackedMarksFollowBaseInLogicalOrder
+100/138 Test #100: ArabicShaping.LamAlefFinalVariants .................................   Passed    0.02 sec
+        Start 104: HebrewShaping.NiqqudFollowsBase
+101/138 Test #101: ArabicShaping.LamAlefWithDiacriticBetween ..........................   Passed    0.02 sec
+102/138 Test #102: ArabicShaping.VocalizedTextJoinsAcrossHarakat ......................   Passed    0.02 sec
+        Start 105: FarsiShaping.PehContextualForms
+        Start 106: FarsiShaping.GafWord
+103/138 Test #103: ArabicShaping.StackedMarksFollowBaseInLogicalOrder .................   Passed    0.02 sec
+        Start 107: FarsiShaping.FarsiYehMedial
+104/138 Test #104: HebrewShaping.NiqqudFollowsBase ....................................   Passed    0.02 sec
+105/138 Test #105: FarsiShaping.PehContextualForms ....................................   Passed    0.02 sec
+        Start 108: UrduShaping.RetroflexLetters
+        Start 109: UrduShaping.NoonGhunnaFinal
+106/138 Test #106: FarsiShaping.GafWord ...............................................   Passed    0.02 sec
+        Start 110: UrduShaping.HehGoalYehBarree
+107/138 Test #107: FarsiShaping.FarsiYehMedial ........................................   Passed    0.02 sec
+108/138 Test #108: UrduShaping.RetroflexLetters .......................................   Passed    0.02 sec
+        Start 111: SindhiShaping.BeehInitial
+        Start 112: PashtoShaping.LetterWithoutPresentationFormsFallsBack
+109/138 Test #109: UrduShaping.NoonGhunnaFinal ........................................   Passed    0.02 sec
+        Start 113: PashtoShaping.KehehWord
+110/138 Test #110: UrduShaping.HehGoalYehBarree .......................................   Passed    0.02 sec
+111/138 Test #111: SindhiShaping.BeehInitial ..........................................   Passed    0.02 sec
+        Start 114: KurdishShaping.RightJoiningLetters
+        Start 115: JoinerShaping.ZwnjBreaksJoin
+112/138 Test #112: PashtoShaping.LetterWithoutPresentationFormsFallsBack ..............   Passed    0.02 sec
+        Start 116: JoinerShaping.ZwjForcesJoin
+113/138 Test #113: PashtoShaping.KehehWord ............................................   Passed    0.02 sec
+114/138 Test #114: KurdishShaping.RightJoiningLetters .................................   Passed    0.02 sec
+        Start 117: MixedDirection.ArabicLatinNumerals
+        Start 118: MixedDirection.ArabicIndicNumerals
+115/138 Test #115: JoinerShaping.ZwnjBreaksJoin .......................................   Passed    0.02 sec
+        Start 119: MixedDirection.SpaceCountPreserved
+116/138 Test #116: JoinerShaping.ZwjForcesJoin ........................................   Passed    0.03 sec
+117/138 Test #117: MixedDirection.ArabicLatinNumerals .................................   Passed    0.02 sec
+        Start 120: Regression.HebrewUntouchedByShaper
+        Start 121: Regression.LatinPassthrough
+118/138 Test #118: MixedDirection.ArabicIndicNumerals .................................   Passed    0.03 sec
+        Start 122: TransparentMark.RtlMarksAreTransparent
+119/138 Test #119: MixedDirection.SpaceCountPreserved .................................   Passed    0.02 sec
+120/138 Test #120: Regression.HebrewUntouchedByShaper .................................   Passed    0.02 sec
+        Start 123: TransparentMark.LettersAndLatinMarksAreNot
+        Start 124: AnchorFor.PositionSensitiveNiqqud
+121/138 Test #121: Regression.LatinPassthrough ........................................   Passed    0.06 sec
+        Start 125: AnchorFor.EverythingElseKeepsCentreRaisedDefault
+122/138 Test #122: TransparentMark.RtlMarksAreTransparent .............................   Passed    0.07 sec
+123/138 Test #123: TransparentMark.LettersAndLatinMarksAreNot .........................   Passed    0.06 sec
+        Start 126: AnchorOver.HorizontalPlacementPerAnchor
+        Start 127: AnchorOverRotated90CW.MirrorsUnrotatedOffsets
+124/138 Test #124: AnchorFor.PositionSensitiveNiqqud ..................................   Passed    0.06 sec
+        Start 128: RaiseAboveBase.NativeAnchorsKeepFontDesignedHeight
+125/138 Test #125: AnchorFor.EverythingElseKeepsCentreRaisedDefault ...................   Passed    0.02 sec
+126/138 Test #126: AnchorOver.HorizontalPlacementPerAnchor ............................   Passed    0.02 sec
+        Start 129: RaiseAboveBase.CentreRaisedBehaviourUnchanged
+        Start 130: CredentialIntegrity.RejectsSameLengthBase64Corruption
+127/138 Test #127: AnchorOverRotated90CW.MirrorsUnrotatedOffsets ......................   Passed    0.03 sec
+        Start 131: XmlParserUtils.MatchesLocalNamesRegardlessOfPrefix
+128/138 Test #128: RaiseAboveBase.NativeAnchorsKeepFontDesignedHeight .................   Passed    0.07 sec
+129/138 Test #129: RaiseAboveBase.CentreRaisedBehaviourUnchanged ......................   Passed    0.06 sec
+        Start 132: TokenBoundary.OrdinaryWordGapIsBreakableAndJustifiable
+        Start 133: TokenBoundary.CjkZeroWidthGapIsBreakableAndJustifiable
+130/138 Test #130: CredentialIntegrity.RejectsSameLengthBase64Corruption ..............   Passed    0.09 sec
+        Start 134: TokenBoundary.AttachedTextIsNeitherBreakableNorJustifiable
+131/138 Test #131: XmlParserUtils.MatchesLocalNamesRegardlessOfPrefix .................   Passed    0.08 sec
+132/138 Test #132: TokenBoundary.OrdinaryWordGapIsBreakableAndJustifiable .............   Passed    0.04 sec
+        Start 135: TokenBoundary.ExplicitHyphenBoundaryIsBreakableButNotJustifiable
+        Start 136: TokenBoundary.LiteralAttachedSpaceRemainsJustifiable
+133/138 Test #133: TokenBoundary.CjkZeroWidthGapIsBreakableAndJustifiable .............   Passed    0.02 sec
+        Start 137: TokenBoundary.VisibleExplicitHyphensAllowBreaks
+134/138 Test #134: TokenBoundary.AttachedTextIsNeitherBreakableNorJustifiable .........   Passed    0.02 sec
+135/138 Test #135: TokenBoundary.ExplicitHyphenBoundaryIsBreakableButNotJustifiable ...   Passed    0.02 sec
+        Start 138: TokenBoundary.ConditionalAndNonBreakingHyphensKeepTheirSemantics
+136/138 Test #136: TokenBoundary.LiteralAttachedSpaceRemainsJustifiable ...............   Passed    0.02 sec
+137/138 Test #137: TokenBoundary.VisibleExplicitHyphensAllowBreaks ....................   Passed    0.01 sec
+138/138 Test #138: TokenBoundary.ConditionalAndNonBreakingHyphensKeepTheirSemantics ...   Passed    0.01 sec
+
+100% tests passed, 0 tests failed out of 138
+
+Total Test time (real) =   1.56 sec
+

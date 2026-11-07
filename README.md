@@ -1,19 +1,66 @@
 # Folloup One
 
-An experimental firmware integration for the Waveshare ESP32-S3-ePaper-3.97 Kit (SKU 33811):
+Experimental firmware for the **Waveshare ESP32-S3-ePaper-3.97 Kit (SKU 33811)**:
 
-- CrossPoint EPUB reader
-- Offline SD voice recording and Folloup/Gemini AI notes
-- Offline Japanese tutor with 291 starter cards and SM-2 reviews
+- Original CrossPoint EPUB reader, library, bookmarks and layout controls
+- Offline SD voice recording, queued Gemini transcription, summaries and action items
+- Offline Japanese tutor with 291 starter cards, Japanese glyphs and SM-2 reviews
 
 ## Status
 
-**Compiled engineering candidate — not a completed or hardware-validated release.**
+**Compiled engineering candidate, not a completed or hardware-validated release.**
 
-The firmware compiled for ESP32-S3. The upstream reader's 138 host regression tests, new scheduling/persistence tests, and firmware image checks passed. No physical-board recording, display, power, or live Gemini workflow has been verified. Full original Folloup interface parity remains unfinished.
+The ESP32-S3 build passed. All 138 upstream reader host regression tests passed,
+along with new scheduling, interrupted-save, deck and partition checks. No physical
+board recording/display/power test or live Gemini account workflow has been verified.
+Full preservation of the original Folloup interface is unfinished.
 
-Read `Folloup-One-Validation.md` before flashing. The merged first-install image is written at **0x0**; the application-only build uses **0x10000**.
+Read [the validation report](Folloup-One-Validation.md) for missing features and
+hardware/end-to-end acceptance requirements before flashing.
 
-## Licensing and attribution
+## Downloads and installation
 
-The combined firmware is GPLv3. CrossPoint/FreeInk MIT notices, Folloup GPL notices, Espressif Apache notices, and Noto font licensing must remain with the sources. See `COPYING` and `FOLLOUP-ONE-NOTICES.md` in the source package.
+The merged first-install image is in [firmware/Folloup-One-Firmware.bin](firmware/Folloup-One-Firmware.bin).
+Download the raw binary. Flash the merged image at **0x0**; do not use the
+application-only offset (0x10000) for this file.
+
+Follow [Windows installation and first-run setup](Folloup-One-Installation.md).
+Use your own Wi-Fi credentials and Gemini API key; no credentials are in the source.
+The starter deck is generated automatically if absent from the microSD card.
+
+## Build
+
+```sh
+git clone --recursive https://github.com/jmarinowatches/folloup-one.git
+cd folloup-one
+python -m pip install platformio==6.1.19 pyyaml pillow
+python -m platformio run -e folloup-one -j 4
+```
+
+If you cloned without `--recursive`, run `git submodule update --init --recursive`.
+The FreeInk SDK is pinned to the exact revision used for the compiled image.
+PlatformIO installs the pinned platform and external libraries on the first build.
+Use a short project/cache path on Windows and set `PYTHONIOENCODING=utf-8`.
+
+The checked-in glyph and starter-deck headers are ready to build. To regenerate
+Japanese assets, first follow [font setup](assets/japanese/README.md).
+
+## Source organization
+
+- `src/folloup/`: unified home, tutor, notes UI and streaming recording/queue service
+- `lib/Epub/`, `src/activities/reader/`: original reader implementation
+- `lib/FolloupUpstream/`: reused/adapted Folloup audio and Gemini components
+- `lib/esp_codec_dev/`: Espressif codec component
+- `freeink-sdk/`: pinned upstream hardware/display SDK submodule
+- `sdcard/`: starter data to copy to a FAT32 microSD card
+- `validation/`: build, test, static analysis and image evidence
+- `firmware/`: merged first-install firmware and integrity information
+
+## License
+
+The combined firmware is **GPLv3**; see [COPYING](COPYING).
+The original root [LICENSE](LICENSE) is the upstream CrossPoint MIT license.
+Original MIT, GPL, Apache and SIL OFL notices remain in force for their components.
+See [attribution and pinned revisions](FOLLOUP-ONE-NOTICES.md).
+
+Original reader documentation is retained in [UPSTREAM-README.md](UPSTREAM-README.md).
